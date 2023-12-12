@@ -1,0 +1,305 @@
+
+
+W - 4B6B14A/4B6B9AC
+Z - 4B6B082/4B6B93E
+
+W - 10 01 C8 00 0B 00 10 00 05 00 
+Z - 10 01 72 00 0B 00 10 00 0A 00 
+
+W - 10 01 C8 01 0B 00 10 00 05 00 down a lot 2bytes pos y(Top to down)
+Z - 10 01 72 00 0B 00 10 00 0B 00 Spirit Orb(11) 1byte relic id
+
+W - 10 00 C8 01 0B 00 10 00 05 00 Move left 2bytes pos x(left to right)
+Z - 10 01 72 00 0B 00 10 00 0B 01 sparkle, looted Bloodstone(229)
+
+W - 10 01 C8 00 0B 00 00 00 05 00 Pos looks lower
+Z - 10 01 72 00 0B 00 10 00 F1 00 Now Make icon
+
+W - 10 01 C8 00 0B 00 50 00 05 00 Pos looks lower
+Z - 10 01 72 00 0B 00 10 00 1E 00 Now Make icon, obtained {star}
+
+W - 10 01 C8 00 0B 00 10 01 05 00 Couldnt see difference
+Z - 10 01 72 00 0B 00 10 00 2E 00 weird item w/ sparkles, looted AxeLord shield(8)
+
+W - 10 01 C8 00 0B 00 10 C0 05 00
+Z - 10 01 72 00 0B 00 10 00 2F 00 weird item w/ sparkles, looted Herald shield(9)
+
+W - 10 01 C8 00 0B 00 C0 C0 05 00 empty
+Z - 10 01 72 00 0B 00 10 00 30 00 Now make icon, looted Dark Shieldx3(10)
+
+W - 10 01 C8 00 0B 00 60 00 05 00 empty
+Z - 10 01 72 00 0B 00 10 00 3F 00 Now make icon, looted Magic Missile(25)
+
+W - 10 01 C8 00 0B 00 30 00 05 00 lower
+Z - 10 01 72 00 0B 00 10 00 8F 00 Now make icon, looted Luminus(105)
+
+W - 10 01 C8 00 0B 00 11 00 05 00 lower
+Z - 10 01 72 00 0B 00 10 00 28 01 empty sparkle, looted Alucart Mail(258)
+
+W - 10 01 C8 00 0B 01 10 00 05 00 Softlock getting close
+Z - 10 01 72 00 0B 00 10 00 29 01 sparkle, msg obtain, no item looted
+
+W - 10 01 C8 00 0C 00 10 00 00 00 $1(2)
+Z - 10 01 72 00 0B 00 10 00 27 00 Now make icon, looted Monster Vial 1(1)
+
+
+W - 10 01 C0 00 0C 00 10 00 00 00 $1(2)
+Z - 10 01 72 00 0B 00 10 00 26 00 Vazio
+
+W - 10 01 C8 01 0C 00 10 00 00 00 $1(2) down y
+Z - 10 01 72 01 0B 00 10 00 0A 00 Cube of Zoe down y
+
+W - 10 01 C8 00 0C 00 10 00 01 00 $25(3)
+Z - 10 01 72 00 0B 00 15 00 0A 00 imperceptible
+
+W - 10 01 C8 00 0C 00 10 00 0C 00 Heart(0)
+Z - 10 01 72 00 0B 00 40 00 0A 00 imperceptible
+
+W - 10 01 C8 00 0C 00 10 00 0D 00 Heart(0)
+W - 10 01 C8 00 0C 00 10 00 0E 00 Big Heart(1)
+Z - 10 01 72 00 0B 00 80 00 0A 00 imperceptible, cant loot item
+
+W - 10 01 C8 00 0C 00 10 00 0F 00 Heart(0)
+Z - 10 01 72 00 0B 00 A0 00 0A 00 imperceptible, cant loot item
+
+W - 10 01 C8 00 0C 00 10 00 10 00 Big Heart(1)
+Z - 10 01 72 00 0B 00 09 00 0A 00 imperceptible
+
+W - 10 01 C8 00 0C 00 10 00 02 00 Life Apple(146)
+Z - 10 01 72 00 0B 00 02 00 0A 00 empty
+
+W - 10 01 C8 00 0C 00 10 00 03 00 Heart Vessel(12)
+Z - 10 01 72 00 0B 00 03 00 0A 00 imperceptible
+
+W - 10 01 C8 00 0C 00 10 00 04 00 Shield Potion(152)
+Z - 10 01 72 00 7B 00 10 00 01 00 Empty
+
+P - 7B 00 Alucard Sword(123)
+T - 00 7B purple square that disappear, hardlock on loot
+
+W - 10 01 C8 00 0C 00 10 00 05 00 Holy Mail(187)
+Z - 10 01 72 00 0D 00 10 00 01 00 empty
+
+P - 7B 01 empty, kanji msg at loot
+T - 01 7B square that disappear, hardlock on loot
+
+W - 10 01 C8 00 0C 00 10 00 06 00 $100(5)
+Z - 10 01 72 00 0D 00 10 00 00 00 empty
+P - 02 01 Alucart Mail(258) despawn
+T - 03 01 Freeze, looks like alucard mail, loot msg ALUCARD, no equip, pause menu freeze
+
+W - 10 01 C8 00 0C 00 10 00 07 00 $50(4)
+Z - 10 01 72 00 0D 00 10 00 01 00 empty
+P - 02 02 empty, softlock on loot
+T - 0C 00 Shaman Shield (12)
+
+W - 10 01 C8 00 0C 00 10 00 08 00 $250(6)
+Z - 10 01 72 00 0B 00 10 02 0A 00 imperceptible
+P - 0C 00 Shaman Shield (12)
+T - 0C 01 Freeze on break wall, looks Shaman Shield, loot msg Defeat Akmodan II
+
+W - 10 01 C8 00 0C 00 10 00 09 00 Jewel Sword(109)
+Z - 10 01 72 00 0B 00 10 20 0A 00 imperceptible
+P - 00 00 Empty hand despawn
+T - 00 00 Empty hand despawn
+
+W - 10 01 C8 00 0C 00 10 00 10 00 Big Heart(1)
+Z - 10 01 72 00 0B 00 10 B0 0A 00 imperceptible
+P - 01 00 Monster Vial 1(1)
+T - 02 00 Monster Vial 2(2)
+
+W - 10 01 C8 00 0C 00 10 00 11 00 Heart(0)
+Z - 10 01 72 00 0C 00 10 B0 11 00 empty
+Z - 10 01 72 00 0C 00 10 00 11 00 Heart(0)
+P - FF 00 Covenant stone(255)
+T - 03 01 Freeze, looks like covenant stone, loot msg ALUCARD
+
+W - 10 01 C8 00 0C 00 10 00 12 00 Big heart(1)
+Z - 10 01 72 00 0B 00 10 00 11 00 Merman Statue (17)
+P - F1 00 Gold ring(241) despawn
+T - E8 00 Zircon(232) despawn
+
+W - 10 01 C8 00 0C 00 10 00 13 00 Big Heart(1)
+Z - 10 01 72 00 0C 00 18 01 3B 01 Heart(0) despawn
+H - 03 00 12 01 0C 00 18 01 0C 00 Heart Vessel(12)
+
+W - 10 01 C8 00 0C 00 10 00 14 00 Big Heart(1)
+Z - 10 01 72 00 0C 00 18 01 0A 00 Heart(0)
+H - 03 00 12 01 0C 00 18 01 17 00 Life Vessel(23)
+
+W - 10 01 C8 00 0D 00 10 00 01 00 empty
+Z - 10 01 72 00 0C 00 18 02 0A 00 Heart(0)
+H - 03 00 12 01 0C 00 10 00 05 00 $100(5)
+
+W - 10 01 C8 00 02 00 10 00 01 00 empty
+Z - 10 01 72 00 0C 00 18 12 0A 00 empty
+H - 23 00 12 01 0C 00 18 01 3B 01 imperceptible
+
+W - 10 01 C8 00 03 00 10 00 01 00 Big heart(1) despawn
+Z - 10 01 72 00 0C 00 18 13 0A 00 Heart(0)
+H - 73 00 12 01 0C 00 18 01 3B 01 imperceptible
+
+W - 10 01 C8 00 03 00 10 00 02 00 $1(2) some
+Z - 10 01 72 00 0C 00 18 14 0A 00 Heart(0)
+H - 03 01 12 01 0C 00 18 01 3B 01 imperceptible
+
+W - 10 01 C8 00 03 00 10 00 02 00 $1(2) despawn
+Z - 10 01 72 00 0C 00 18 15 0A 00 Heart(0)
+H - 3B 02 empty, softlock on loot
+
+W - 10 01 C8 00 03 00 10 00 0A 00 $2000(10), despawn, maybe 03 is a id to despawn items
+Z - 10 01 72 00 0C 00 13 00 0A 00 Heart(0)
+H - 3B 03 empty, softlock on loot
+
+W - 10 01 C8 00 03 00 10 00 0B 00 $5000, despawn, always spawn on re-enter room
+Z - 10 01 72 00 0C 00 FF FF 0A 00 empty
+H - 80 00 Empty hand
+
+W - 10 01 C8 00 03 00 10 00 0C 00 Heart Vessel, empty, always spawn
+Z - 10 01 72 00 0C 00 EE EE 0A 00 empty
+H - 81 00 Monster vial 1(1)
+
+W - 10 01 C8 00 03 00 10 00 0D 00 huge food,despawn, no loot
+Z - 10 01 72 00 0C 00 FF 00 0A 00 empty
+H - 11 00 Holy Water
+
+W - 10 01 C8 00 03 00 10 00 0E 00 Dagger(14)
+Z - 10 01 72 00 0C 00 AA 00 0A 00 Heart(0), cant be looted
+H - 17 00 Life Vessel(23)
+
+W - 10 01 C8 00 03 00 10 00 18 00 Heart(0) despawn couldnt get close to loot
+Z - 10 01 72 00 0C 00 BB 00 0A 00 Heart(0), cant be looted
+H - 18 00 Heart(0), despawn, vanished till looted once
+
+W - 10 01 C8 00 03 00 10 00 19 00 Heart(0) despawn couldnt get close to loot
+Z - 10 01 72 00 0C 00 CC 00 0A 00 empty
+H - 20 00 Heart(0), despawn, vanished till looted once
+
+W - 10 01 C8 00 01 00 10 00 01 00 Candle with Big Heart(1)
+Z - 10 01 72 00 0C 00 CB 00 0A 00 empty
+H - 21 00 Heart(0), despawn, vanished till looted once
+
+W - 10 01 C8 00 01 00 10 00 02 00 Candle with $1(2) 
+Z - 10 01 72 00 0C 00 CA 00 0A 00 empty
+H - 30 00 Heart(0), despawn, vanished till looted once
+
+W - 10 01 C8 00 01 00 10 00 17 00 Candle with life Vessel(23)
+Z - 10 01 72 00 0C 00 C9 00 0A 00 empty
+H - 40 00 Heart(0), despawn, vanished till looted once
+
+W - 10 01 C8 00 01 00 10 00 18 00 Candle with heart(0)
+Z - 10 01 72 00 0C 00 C0 00 0A 00 empty
+H - 50 00 Heart(0), despawn, vanished till looted once
+
+W - 10 01 C8 00 01 00 10 00 3B 01 Candle with Holy Mail(187)
+Z - 10 01 72 00 0C 00 BF 00 0A 00 Heart(0) cant be looted
+H - 80 00 Empty hand
+
+W - 10 01 C8 00 01 00 10 00 83 01 Candle, freeze, looks alucart mail, loot msg ALUCARD
+Z - 10 01 72 00 0C 00 B0 00 0A 00 Heart(0) cant loot
+H - 82 01 Alucart mail(258)
+
+W - 10 01 C8 00 03 00 10 00 01 00 Big Heart(1), despawn, always spawn on re-enter room
+Z - 10 01 72 00 0C 00 A0 00 0A 00 Heart(0) cant be looted
+H - 83 01 freeze on proximity, loot msg ALUCARD
+
+W - 10 01 C8 00 03 00 10 00 05 00 $100(5), despawn, always spawn on re-enter room
+Z - 10 01 72 00 0C 00 90 00 0A 00 Heart(0) cant loot
+H - 02 03 yellow ball, softlock on loot
+
+W - 10 01 C8 00 03 00 10 00 17 00 Life Vessel(23), despawn, always spawn on re-enter room
+Z - 10 01 72 00 0C 00 80 00 0A 00 Heart(0) cant loot
+H - 02 05 Empty hand w/ some graphic bug, softlock on loot
+
+W - 10 01 C8 00 03 00 10 00 3B 01 Heart(0), despawn, always spawn on re-enter room
+Z - 10 01 72 00 0C 00 70 00 0A 00 Heart(0), left wall invisible, switch doesnt change
+H - 02 07 weird item, softlock on loot
+
+W - 10 01 C8 00 05 00 10 00 05 00 Door
+Z - 10 01 72 00 0C 00 60 00 0A 00 Heart(0)
+H - 02 09 weird item, softlock on loot
+
+W - 10 01 C8 00 05 00 10 00 17 00 door some grey icons
+Z - 10 01 72 00 0C 00 50 00 0A 00 Heart(0)
+H - 02 0B Now make icon, softlock on loot
+
+W - 10 01 C8 00 05 00 10 00 3B 01 Door some pieces of wall
+Z - 10 01 72 00 0C 00 40 00 0A 00 Heart(0)
+H - 02 0D 3t square, softlock on loot
+
+W - 10 01 C8 00 05 00 20 00 05 00 door
+Z - 10 01 72 00 0C 00 30 00 0A 00 Heart(0)
+H - 02 0F green square, hardlock on loot
+
+W - 10 01 C8 00 07 00 20 00 05 00 empty, on proximity balls from spell(Soul steal)
+Z - 10 01 72 00 0C 00 20 00 0A 00 Heart(0)
+H - 02 10 square, softlock on loot
+
+W - 10 01 C8 00 07 00 20 00 04 00 empty, on proximity balls from spell(Soul steal)
+Z - 10 01 72 00 0C 00 10 00 0A 00 Heart(0)
+H - 84 01 Freeze on enter, loot msg LEVEL
+
+W - 10 01 C8 00 09 00 20 00 05 00 empty, some graphics glitches on proximity
+Z - 10 01 72 00 01 00 10 00 17 00 Candle with life Vessel(23)
+H - 95 01 Freeze on enter, loot msg LEVEL
+
+W - 10 01 C8 00 10 00 20 00 05 00 empty
+Z - 10 01 72 00 03 00 10 00 05 00 $100, despawn, always spawn
+H - A5 01 empty, loot empty
+
+W - 10 01 C8 00 11 00 20 00 05 00 dark tree on foreground
+Z - 10 01 72 00 05 00 10 00 05 00 door
+H - B5 01 empty, softlock on loot
+
+W - 10 01 C8 00 11 00 20 00 17 00 empty
+Z - 10 01 72 00 07 00 10 00 05 00 empty, on proximity balls from spell(Soul steal)
+H - C5 01 Now make icon, loot msg /t/t/t"
+
+W - 10 01 C8 00 11 00 20 00 06 00 empty
+Z - 10 01 72 00 09 00 10 00 05 00 empty, on proximity some Death boss sprites
+H - D5 01 weird sword, loot msg Lesser Demon
+
+W - 10 01 C8 00 13 00 20 00 05 00 empty
+Z - 10 01 72 00 11 00 10 00 05 00 dark tree on foreground
+H - E5 01 Now make icon loot msg some kanji
+
+W - 10 01 C8 00 15 00 20 00 05 00 empty
+Z - 10 01 72 00 17 00 10 00 05 00 empty, thunder effects
+H - F5 01 empty, softlock on loot
+
+W - 10 01 C8 00 19 00 20 00 05 00 empty, window on background
+Z - 10 01 72 00 17 00 10 00 07 00 empty, thunder effect
+H - 3B 01 Holy Mail(187)
+
+W - 10 01 C8 00 21 00 20 00 05 00 empty, some chain
+Z - 10 01 72 00 15 00 10 00 05 00 empty
+
+W - 10 01 C8 00 23 00 20 00 05 00 same graphics from entrance cellar, opened on proximity, reflected next to the entrance door
+Z - 10 01 72 00 25 00 10 00 05 00 empty
+
+W - 10 01 C8 00 25 00 20 00 05 00 empty, inside entry cellar 3 stone platforms on the wall
+Z - 10 01 72 00 23 00 10 00 05 00 same graphics from entrance cellar, opened on proximity, reflected next to the entrance door
+
+W - 10 01 C8 00 45 00 20 00 05 00 weird graphics, enemy on vicinity
+Z - 10 01 72 00 A3 00 10 00 05 00 Softlock on proximity
+
+W - 10 01 C8 00 65 00 20 00 05 00 empty
+Z - 10 01 72 00 73 00 10 00 05 00 empty
+
+Boss 1 rewards 0x054b3ac8 + 10 = 0x54b3ad2
+
+23(17) Life Vessel
+00(00) Heart
+01(01) Big Heart
+02(02) $1
+03(03) $25
+07(07) $400
+08(08) $700
+09(09) $1000
+10(0a) $2000
+11(0b) $5000
+12(0c) Heart Vessel
+13(0d) big turkey img - no loot
+14(0e) Dagger sub
+01(81) + offset Monster vial 1
+3b01 Holy mail

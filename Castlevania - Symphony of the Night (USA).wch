@@ -1,0 +1,186 @@
+SystemID PSX
+097BE8	b	u	0	MainRAM	Level
+097BA0	d	u	0	MainRAM	HP
+097BA4	d	u	0	MainRAM	Max HP
+097BB0	d	u	0	MainRAM	MP
+097BB4	d	u	0	MainRAM	Max MP
+097BA8	d	u	0	MainRAM	Heart
+097BAC	d	u	0	MainRAM	Max Heart
+097BEC	d	u	0	MainRAM	Exp
+0	S	_	1		Relics
+097964	b	u	0	MainRAM	Soul of Bat
+097965	b	u	0	MainRAM	Fire of Bat
+097966	b	u	0	MainRAM	Echo of Bat
+097967	b	u	0	MainRAM	Force of Echo
+097968	b	u	0	MainRAM	Soul of Wolf
+097969	b	u	0	MainRAM	Power of Wolf
+09796A	b	u	0	MainRAM	Skill of Wolf
+09796B	b	u	0	MainRAM	Form of Mist
+09796C	b	u	0	MainRAM	Power of Mist
+09796D	b	u	0	MainRAM	Gas Cloud
+09796E	b	u	0	MainRAM	Cube of Zoe
+09796F	b	u	0	MainRAM	Spirit Orb
+097970	b	u	0	MainRAM	Gravity Boots
+097971	b	u	0	MainRAM	Leap Stone
+097972	b	u	0	MainRAM	Holy Symbol
+097973	b	u	0	MainRAM	Faerie Scroll
+097974	b	u	0	MainRAM	Jewel of Open
+097975	b	u	0	MainRAM	Merman Statue
+097976	b	u	0	MainRAM	Bat Card
+097977	b	u	0	MainRAM	Ghost Card
+097978	b	u	0	MainRAM	Faerie Card
+097979	b	u	0	MainRAM	Demon Card
+09797A	b	u	0	MainRAM	Sword Card
+09797D	b	u	0	MainRAM	Heart of Vlad
+09797E	b	u	0	MainRAM	Tooth of Vlad
+09797F	b	u	0	MainRAM	Rib of Vlad
+097980	b	u	0	MainRAM	Ring of Vlad
+097981	b	u	0	MainRAM	Eye of Vlad
+0	S	_	1		Consumable
+097A1A	b	u	0	MainRAM	Antivenom
+097A21	b	u	0	MainRAM	Attack Potion
+0979C3	b	u	0	MainRAM	Barley Tea
+0979D4	b	u	0	MainRAM	Bat Pentagram
+0979DB	b	u	0	MainRAM	Boomerang
+0979D7	b	u	0	MainRAM	Buffalo Star
+0979DA	b	u	0	MainRAM	Bwaka Knife
+0979B9	b	u	0	MainRAM	Cheese
+0979D6	b	u	0	MainRAM	Cross Shuriken
+0979CC	b	u	0	MainRAM	Dim Sum Set
+097A2B	b	u	0	MainRAM	Elixir
+097A10	b	u	0	MainRAM	Fire Boomerang
+0979B6	b	u	0	MainRAM	Frankfurter
+0979AA	b	u	0	MainRAM	Grapes
+0979C4	b	u	0	MainRAM	Green Tea
+097A1D	b	u	0	MainRAM	Hammer
+097A18	b	u	0	MainRAM	Heart Refresh
+097A2A	b	u	0	MainRAM	High Potion
+097A11	b	u	0	MainRAM	Iron Ball
+0979DC	b	u	0	MainRAM	Javelin
+0979A2	b	u	0	MainRAM	Karma Coin
+097A30	b	u	0	MainRAM	Library Card
+097A1C	b	u	0	MainRAM	Life Apple
+097A1F	b	u	0	MainRAM	Luck Potion
+0979A3	b	u	0	MainRAM	Magic Missile
+097A2C	b	u	0	MainRAM	Manna Prism
+0979D0	b	u	0	MainRAM	Meal Ticket
+0979D1	b	u	0	MainRAM	Neutron Bomb
+0979AD	b	u	0	MainRAM	Peanuts
+0979D3	b	u	0	MainRAM	Pentagram
+0979CD	b	u	0	MainRAM	Pot Roast
+097A29	b	u	0	MainRAM	Potion
+0979D2	b	u	0	MainRAM	Power of Sire
+0979CA	b	u	0	MainRAM	Red Bean Bun
+097A28	b	u	0	MainRAM	Resist Dark
+097A23	b	u	0	MainRAM	Resist Fire
+097A27	b	u	0	MainRAM	Resist Holy
+097A25	b	u	0	MainRAM	Resist Ice
+097A26	b	u	0	MainRAM	Resist Stone
+097A24	b	u	0	MainRAM	Resist Thunder
+097A22	b	u	0	MainRAM	Shield Potion
+0979AF	b	u	0	MainRAM	Shiitake
+0979D5	b	u	0	MainRAM	Shuriken
+0979CE	b	u	0	MainRAM	Sirloin
+097A20	b	u	0	MainRAM	Smart Potion
+097A1E	b	u	0	MainRAM	Str. Potion
+0979D9	b	u	0	MainRAM	TNT
+0979A6	b	u	0	MainRAM	Toadstool
+0979CF	b	u	0	MainRAM	Turkey
+0	S	_	1		Salable
+097A73	b	u	0	MainRAM	Aquamarine
+097A78	b	u	0	MainRAM	Diamond
+097A76	b	u	0	MainRAM	Garnet
+097A75	d	u	0	MainRAM	Onyx
+097A77	b	u	0	MainRAM	Opal
+097A70	b	u	0	MainRAM	Staurolite
+097A74	b	u	0	MainRAM	Turquoise
+097A72	b	u	0	MainRAM	Zircon
+0	S	_	1		Equipment
+097A42	b	u	0	MainRAM	Alucard Mail
+09799A	w	u	0	MainRAM	Alucard Shield
+097A05	w	u	0	MainRAM	Alucard Sword
+097A32	b	u	0	MainRAM	Alucart Sword
+097A83	b	u	0	MainRAM	Ankh of Life
+097A07	b	u	0	MainRAM	Badelaire
+097A50	b	u	0	MainRAM	Bandanna
+097A4F	b	u	0	MainRAM	Ballroom Mask
+09799C	b	u	0	MainRAM	Basilard
+0979E6	b	u	0	MainRAM	Bekatowa
+097A5D	b	u	0	MainRAM	Beryl Circlet
+097A6F	b	u	0	MainRAM	Bloodstone
+097A69	b	u	0	MainRAM	Blood Cloak
+0979E5	b	u	0	MainRAM	Broad Sword
+097A36	b	u	0	MainRAM	Bronze Cuirass
+0979DA	b	u	0	MainRAM	Bwaka Knife
+097A5E	d	u	0	MainRAM	Cat-eye Circl.
+0979EC	b	u	0	MainRAM	Claymore
+097A64	b	u	0	MainRAM	Cloth Cape
+09799E	b	u	0	MainRAM	Combat Knife
+097A89	b	u	0	MainRAM	Covenant Stone
+097A67	b	u	0	MainRAM	Crystal Cloak
+0979E2	b	u	0	MainRAM	Cutlass
+097A00	b	u	0	MainRAM	Dark Blade
+097A87	b	u	0	MainRAM	Duplicator
+0979E9	b	u	0	MainRAM	Estoc
+0979E4	b	u	0	MainRAM	Falchion
+097A49	b	u	0	MainRAM	Fury Plate
+097A53	b	u	0	MainRAM	Googles
+0979E0	b	u	0	MainRAM	Gladius
+097995	b	u	0	MainRAM	Goddess Shield
+097A3A	b	u	0	MainRAM	Gold Plate
+097A7B	b	u	0	MainRAM	Gold Ring
+0979F6	b	u	0	MainRAM	Gram
+097A44	b	u	0	MainRAM	Healing Mail
+097993	b	u	0	MainRAM	Herald Shield
+097A35	b	u	0	MainRAM	Hide Cuirass
+097A55	b	u	0	MainRAM	Holy Glasses
+097A45	b	u	0	MainRAM	Holy Mail
+097A0C	b	u	0	MainRAM	Holy Rod
+0979FB	b	u	0	MainRAM	Icebrand
+097A3F	b	u	0	MainRAM	Ice Mail
+0979EB	b	u	0	MainRAM	Jewel Knuckles
+0979F7	b	u	0	MainRAM	Jewel Sword
+0979EE	b	u	0	MainRAM	Katana
+097A88	b	u	0	MainRAM	Kings Stone
+097990	b	u	0	MainRAM	Knight Shield
+0979DF	b	u	0	MainRAM	Knuckle Duster
+09798F	b	u	0	MainRAM	Leather Shield
+097A3E	b	u	0	MainRAM	Lightning Mail
+0979F3	d	u	0	MainRAM	Luminus
+097A06	b	u	0	MainRAM	Mablung Sword
+097A40	b	u	0	MainRAM	Mirror Cuirass
+097A6D	b	u	0	MainRAM	Moonstone
+0979F8	b	u	0	MainRAM	Mormegil
+097A0B	b	u	0	MainRAM	Morningstar
+097A0E	b	u	0	MainRAM	Moon Rod
+097A7F	b	u	0	MainRAM	Mystic Pendant
+097A8A	b	u	0	MainRAM	Nauglamir
+097A81	b	u	0	MainRAM	Necklace of J
+09799F	b	u	0	MainRAM	Nunchaku
+097A15	b	u	0	MainRAM	Osafune Katana
+097A3B	b	u	0	MainRAM	Platinum Mail
+097A7E	b	u	0	MainRAM	Ring of Arcana
+097A7A	b	u	0	MainRAM	Ring of Ares
+097A7D	b	u	0	MainRAM	Ring of Varda
+097A5A	b	u	0	MainRAM	Ruby Circlet
+0979E1	b	u	0	MainRAM	Scimitar
+097A8B	b	u	0	MainRAM	Secret Boots
+097A7C	b	u	0	MainRAM	Silver Ring
+097A39	b	u	0	MainRAM	Silver Plate
+097996	b	u	0	MainRAM	Shaman Shield
+097A41	b	u	0	MainRAM	Spike Breaker
+097A0D	b	u	0	MainRAM	Star Flail
+097A56	b	u	0	MainRAM	Steel Helm
+097A57	b	u	0	MainRAM	Stone Mask
+097A4E	b	u	0	MainRAM	Sunglasses
+097A6E	b	u	0	MainRAM	Sunstone
+0979F2	b	u	0	MainRAM	Sword of Hador
+09799B	b	u	0	MainRAM	Sword of Dawn
+0979A5	b	u	0	MainRAM	Takemitsu
+097A86	b	u	0	MainRAM	Talisman
+0979ED	b	u	0	MainRAM	Talwar
+097A5C	b	u	0	MainRAM	Topaz Circlet
+097A6B	b	u	0	MainRAM	Twilight Cloak
+0979DD	b	u	0	MainRAM	Tyrfing
+097A46	b	u	0	MainRAM	Walk Armor
+

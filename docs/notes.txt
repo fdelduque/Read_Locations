@@ -1,0 +1,337 @@
+Reed-Solomon Code: The ECC used in the PlayStation's CD format is based on the Reed-Solomon code, which is a powerful mathematical technique for error
+ correction. It's widely used in various applications, including CDs and DVDs.
+
+Pot Roast - 04ba9774
+Turkey - 04baa2b0
+
+NO3 pos: 0x04b665e8, len: 359960, items: 0x1c8c
+NP3 pos: 0x053f4708, len: 341044, items: 0x1618
+
+addresses: [
+ 0x04ba9774 = 43 00 22
+ 0x05431554 = 43 00 02
+]
+
+Zone items are loaded on ram @ 18 + index * (zone items offset)
+TODO: check->looks like all zone is loaded on RAM @ 180000 
+Life Vessel + 5 max HP
+
+
+NO3 CD{0x04b665e8, items=0x1c8c} {0x053f4708, items=0x1618} RAM{loot=03bef2(NP3 share) item index bit on flag, items=181c8c + index * 0x02}
+obs: Jewel sword isnt on NO3, looted flag 03bef2 share with NP3 but items have its own zone offset
+    Switch shield potion
+        03be1c 0/0100 
+    Switch teleport exit
+        03be1e 0/1 
+    Switch uc
+        03be1c 0/1
+    Wall pot roast 
+        03be1e left - 0 / 0100  right - 0 / 0200 both - 0 / 0300 bit flag LR
+        19d21a - 19d2dc sprites
+        item: 1ba7cc / 1b506c
+
+    Turkey 
+        03be24 flag wall
+    
+    Heart Vessel above death index: 0
+        item: 181c8c
+        loot: 03bef2
+
+    Life Vessel bellow shield potion index: 1
+        item: 181c8e
+
+    Life apple(EN Hidden) index: 2
+        item: 181c90
+
+    Shield potion index: 4
+        item: 181c94
+
+    Holy mail index: 5
+        item: 181c96
+
+    Life Vessel UC exit index: 6
+        item: 181c98
+
+    Heart Vessel teleport exit index: 7
+        item: 181c9a / 181626
+
+    Life vessel above entry index: 8
+        item: 181c9c
+
+    Power of Wolf 10bytes
+        item: 184914
+    
+    Cube of Zoe 10 bytes
+        item: 1848a6
+
+NZ0 CD{0x054b0c88, items=0x13b0} RAM{loot=03bf0a}
+    Cannon
+        add: 03be6e
+
+    Hide Cuirass index: 0
+        item: 1813b0
+        loot: 03bf0a 0x0100 XXX1
+
+    Heart Vessel breakable wall index: 1 ram->0x54b229a
+        item: 1813b2
+        loot: 03bf0a XX1X
+
+    Cloth Cape index:2
+        item: 1813b4
+        loot: 03bf0a X1XX
+
+    Life Vessel breakable floor index: 3 ram->0x54b229e
+        item: 1813b6
+        loot: 03bf0a 0x0800 1XXX
+
+    Sunglasses index: 6
+        item: 1813bc
+        loot: 03bf0a 0x4000 X1XX
+
+    Resist Thunder index: 7
+        item: 1813be
+        loot: 03bf0a 0x8000  1XXX XXXX
+    
+    Leather Shield index: 8
+        item: 1813c0
+        loot: 03bf0c 0x0001 bit 0
+
+    Basilard index: 9
+        item: 1813c2
+        loot: 03bf0c 0x0002 bit 1
+
+    Potion index: 10
+        item: 1813c4
+        loot: 03bf0c 0x0004 bit 2
+
+    Gaibon/Slogra
+        item: 18285a
+        kill: 03ca40 looks like boss death time
+
+    Bat Card
+        item: 180fa0
+
+    Skill of Wolf
+        item: 180fa2
+
+NO0 CD{0x048f9a38, items=0x1100} RAM{loot=03beec}
+    Behind blue door switch
+        address: 03bded 0 / 1
+
+    Life Vessel left side index:0
+        item: 181100
+
+    Alucart shield index:1
+        item: 181102
+
+    Heart Vessel right clock index: 2
+        item: 181104
+
+    Life Aple index: 3
+        item: 181106
+
+    Hammer index: 4
+        item: 181108
+
+    Potion index: 5
+        item: 18110a
+
+    Alucart mail index: 6
+        item: 18110c
+
+    Alucart sword index: 7
+        item: 18110e
+
+    Life Vessel inside clock index: 8
+        item: 181110
+
+    Heart Vessel inside clock index: 9
+        item: 181112
+
+    Library card w/ Jewel index: 10
+        item: 181114
+
+    Attack potion w/ Jewel index: 11
+        item: 181116
+
+    Hammer (spirit Orb) index: 12
+        item: 181118
+
+    Str. Potion (Spirit Orb) index: 13
+        item: 18111a
+
+    Spirit Orb
+        address: 1830a6
+
+NO1 CD{0x049d18b8, items=0x1a2c} RAM{loot=03beee}
+
+    Pot Roast
+        wall: 03bdfe 0x8100 / 0x8101 normal/broken
+        item: 1beab0
+
+    Jewel knuckles index: 0
+        item: 181a2c
+
+    Mirror cuirass index: 1
+        item: 181a2e
+
+    Heart Vessel by elevator index: 2
+        item: 121a30
+
+    Garnet index: 3
+        item: 181a32
+
+    Gladius index: 4
+        item: 181a34
+    
+    Life Vessel bellow elevator index: 5
+        item: 181a36
+
+    Zircon index: 6
+        item: 181a38
+
+    Doppelganger10
+        item: 1842b8 boss zone
+        kill: 03ca30
+
+CEN CD{0x0455bff8}
+    Holy Glasses
+        item: cd-0x456e368 ram-18fea0
+        Alucard dialog:  13ae90,13aef4
+        cg seen: 03bec4 0 / 1
+
+LIB CD{0x047a1ae8, items=0x1a90} RAM{loot=03befa}
+    Life Vessel bump librarian
+        flag: 03be60
+        item: ???
+
+    Lesser Demon
+        item: 1831ca
+        kill: 03ca6c
+
+NZ1 CD {0x055724b8, items=0x111c} RAM{loot=03bf0d}
+    Pot Roast
+        wall: 03be8f bit 0
+        item: 181084
+
+    TNT
+        wall: 03be8f bit 3
+        item: 181090
+
+    Bwaka
+        wall 03be8f bit 2
+        item: 18108C
+
+    Shuriken
+        wall: 03be8f bit 1
+        item: 181088
+
+    Karasuman
+        item: 1823f6
+        kill: 03ca50
+
+DAI CD {0x04675f08, items=0x0ec0} RAM {loot=03befe}
+    switch statue: 03be4c
+    Hyppogryph
+        kill: 03ca44
+        item: 1818c4 boss zone
+
+ARE CD {0x043c2018, items=0x0fe8} RAM {loot=03bf06}
+    switch DAI: 03be9d
+
+TOP CD {0x0560e7b8, items=0x0d10} RAM {loot=03bf08}
+
+NO2 CD {0x04aa0438, items=0x0fec} RAM {loot=03bef0}
+
+BO0 CD {0x05fa9dc8, rew=0x24d4} RAM {}
+    kill: 0x03ca2c
+    item: 1824d4 zone b0
+
+BO2 CD {0x060fca68, rew=0x181c} RAM{}
+    kill: 03ca38
+    item: 181820 zone b2
+
+NO4 CD {0x04c307e8, items=0x1928} RAM{loot=03bef4 e 03bef6}
+
+BO3 CD {0x061a60b8, rew=0x1c60, items=0x108c} RAM{}
+    kill: 03ca3c
+    item: 181c66
+
+BO7 CD {0x066b32f8, rew=0x1440}
+    kill: 03ca5c
+    item: 18144a zone bo7
+
+CHI CD {0x045e8ae8, items=0x09e4} RAM {loot=03bf02}
+    Demon switch 03be3c 0 / 1
+    Turkey 03be3d 0 / 1
+
+CAT CD {0x0448f938, items=0x174c} RAM{loot=03befc}
+
+BO1 CD {0x0606dab8, rew=0x1b98}
+    kill: 03ca34
+    item:  zone bo1
+
+RTOP CD {0x057df998, items=0x07c8} RAM {loot=03bf3e}
+
+RBO9 Darkwing Bat CD{0x059bdb08}
+    kill: 03ca78
+    item: 182598 relic id
+
+RNZ1 CD{0x059bb0d8, rew=0x2570, items=0x0ec8} RAM{loot=03bf47}
+    wall Turky/Shuriken/Bwaka/TNT: 03be97 bit 0/1/2/3
+
+RNO1 CD {0x0504f558, items=0x0ae4} RAM {loot=03bf17}
+    wall dim 03be04 0 / 1
+
+RBO4 CD {0x067cfff8, rew=0x13b4}
+    kill: 03ca68
+    item: 1813d8 zone rbo4
+
+RLIB CD {0x04ee2218, items=0x0bc8} RAM {loot=03bf27}
+
+RNO0 CD {0x04f84a28, items=0x0f8c} RAM {loot=03bf13}
+
+RNZ0 CD {0x05902278, items=0x0cc8} RAM {loot=03bf43}
+
+RBO1 CD {0x06590a18, rew=0x1550}
+    kill: 03ca48
+    item: 18155a
+
+RNO3 CD {0x051ac758, items=0x0f10} RAM {loot=03bf1f}
+    pot roast wall: 03be27 0 / 1
+
+RN04 CD {0x0526a868, items=0x1620} RAM {loot=03bf23}
+
+RBO5 CD {0x06861468, rew=0x4348}
+    kill: 03ca70
+    item: 184350
+
+RCHI CD {0x04da4968, items=0x07cc} RAM {loot=03bf33}
+
+RBO2 CD {0x06620c28, rew=0x1788}
+    kill: 03ca58
+    item: 1817b2
+
+RCAT CD {0x04cfa0b8, items=0x13c8} RAM {loot=03bf2b}
+
+RBO8 CD {0x06a5f2e8, rew=0x2334}
+    kill: 03ca7c
+    item: 18233e
+
+RDAI CD {0x04e31458, items=0x0d2c} RAM {loot=03bf2f}
+
+RBO3 CD {0x067422a8, rew=0x12a8}
+    kill: 03ca64
+    item: 1812ca
+
+RNO2 CD {0x050f7948, items=0x0d40} RAM {loot=03bf1b}
+
+RARE CD {0x057509e8, items=0x0a3c} RAM {loot=03bf3b}
+
+RBO0 CD {0x064705f8, rew=0x1988}
+    kill: 03ca54
+    item: 18198c
+
+RBO7 CD {0x069d1598, rew=0x1300}
+    kill: 03ca74
+    item: 181326
