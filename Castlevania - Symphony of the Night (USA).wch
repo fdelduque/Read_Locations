@@ -64,6 +64,9 @@ SystemID PSX
 0979A3	b	u	0	MainRAM	Magic Missile
 097A2C	b	u	0	MainRAM	Manna Prism
 0979D0	b	u	0	MainRAM	Meal Ticket
+09798B	b	u	0	MainRAM	Monster Vial 1
+09798C	b	u	0	MainRAM	Monster Vial 2
+09798D	b	u	0	MainRAM	Monster Vial 3
 0979D1	b	u	0	MainRAM	Neutron Bomb
 0979AD	b	u	0	MainRAM	Peanuts
 0979D3	b	u	0	MainRAM	Pentagram
@@ -115,12 +118,14 @@ SystemID PSX
 097A5E	d	u	0	MainRAM	Cat-eye Circl.
 0979EC	b	u	0	MainRAM	Claymore
 097A64	b	u	0	MainRAM	Cloth Cape
+097A34	b	u	0	MainRAM	Cloth Tunic
 09799E	b	u	0	MainRAM	Combat Knife
 097A89	b	u	0	MainRAM	Covenant Stone
 097A67	b	u	0	MainRAM	Crystal Cloak
 0979E2	b	u	0	MainRAM	Cutlass
 097A00	b	u	0	MainRAM	Dark Blade
 097A87	b	u	0	MainRAM	Duplicator
+097A66	b	u	0	MainRAM	Elven Cloak
 0979E9	b	u	0	MainRAM	Estoc
 0979E4	b	u	0	MainRAM	Falchion
 097A49	b	u	0	MainRAM	Fury Plate
