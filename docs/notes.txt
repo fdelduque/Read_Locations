@@ -335,3 +335,36 @@ RBO0 CD {0x064705f8, rew=0x1988}
 RBO7 CD {0x069d1598, rew=0x1300}
     kill: 03ca74
     item: 181326
+
+05800C e 058152 -> Aparenta ser grafico da bola preta de HP
+03c9b4 -> pos retangulo de selecionar item ambas maos
+03c9b8 -> Helm
+03c9bc -> head
+03c9c0 -> back
+09c9c4 -> ambos trinkets
+
+Warps  -> 03bebc
+RWarps -> 03bebd
+
+item 195, 217 missing?
+
+097a8d-097b35 -> weapon inventory 0 = empty hand
+097b36-097b6f -> chest inventory 0 = ---- unequip offset 169 / a9
+097b50-097b65 -> Helm inventory
+097b66-097b6e  -> Cloak inventory 
+097b6f-097b8e -> Trinkets offset 169 / a9
+
+
+
+public const uint HelmStart = 0x1A;
+        public const uint CloakStart = 0x30;
+        public const uint AccessoryStart = 0x39;
+        public const int HandCount = 168;
+        public const int HelmCount = 21;
+        public const int ArmorCount = 26;
+        public const int CloakCount = 8;
+        public const int AccessoryCount = 31;
+        public const int SubweaponCount = 9;
+        public const uint LibraryWarped = 0x78;
+ 
+

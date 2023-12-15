@@ -14,7 +14,19 @@ def write_word(fd, address, value):
     fd[address + 2] = x3
     fd[address + 3] = x4
 
+def dumpResults(filename, result):
+    with open(filename, "w") as fd:
+        for r in result:
+            fd.write(r)
+
 def dump_items():
+    results = []
+    for i in ITEMS.ITEMS_LIST:
+        results.append(f", {i.id}, \"{i.name}\", 0xPLACEHOLDER")
+
+    dumpResults("itemslua.txt", results)
+
+def dump_location():
     results = []
     for z in ZONES.ZONES_LIST:
         if z.id == "ST0":
@@ -37,6 +49,7 @@ def dump_items():
 
 
 print(hex(romOffset(0x069d1598, 0x1300)))
+dump_items()
 
 #ZONES_LIST.append(Zone(48, "RBO7", "Akmodan II", 0x069d1598, rew=0x1300))
 #ZONES_LIST.append(Zone(41, "RBO0", "Trio", 0x064705f8, rew=0x1988))
