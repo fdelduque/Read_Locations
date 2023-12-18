@@ -98,7 +98,7 @@ local items = {0, "Heart", 0x000000, 1, "Big Heart", 0x000000, 2, "$1", 0x000000
 				240, "Ring of ares", 0x097A7A, 241, "Gold ring", 0x097A7B, 242, "Silver ring", 0x097A7C, 243, "Ring of varda", 0x097A7D, 244, "Ring of arcana", 0x097A7E, 245, "Mystic pendant", 0x097A7F, 246, "Heart broach", 0x097A80, 247, "Necklace of j", 0x097A81,
 				248, "Gauntlet", 0x097A82, 249, "Ankh of life", 0x097A83, 250, "Ring of feanor", 0x097A84, 251, "Medal", 0x097A85, 252, "Talisman", 0x097A86, 253, "Duplicator", 0x097A87, 254, "King's stone", 0x097A88, 255, "Covenant stone", 0x097A89,
 				256, "Nauglamir", 0x097A8A,	257, "Secret boots", 0x097A8B, 258, "Alucart mail", 0x097a8c
-				}
+}
 
 local pos_x = 0
 local pos_y = 10
@@ -193,8 +193,6 @@ while true do
 	
 	for i = 1, size, 5 do
 		zone = mainmemory.read_u16_le(0x180000)
-		--gui.drawText(0, 0, zone)
-		
 		
 		if zone == locations[i] then
 			gui.drawText(0, 0, locations[i+2] .. " - " .. locations[i+3])
@@ -207,9 +205,6 @@ while true do
 			else
 				flag = mainmemory.read_u16_le(locations[i+1])
 			end
-
-			--gui.drawText(0, 60, flag)
-			--gui.drawText(0, 70, flag2)
 			
 			if locations[i+2] == "ARE" then
 				if mainmemory.read_u16_le(0x03ca38) ~= 0 then
@@ -463,8 +458,7 @@ while true do
 				end
 				gui.drawText(0, 70, "Turkey", color)
 			end
-			
-			
+						
 			for i, v in ipairs(items) do
 				if v == "EMPTY" then 
 				else

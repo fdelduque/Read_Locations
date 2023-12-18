@@ -95,15 +95,17 @@ SystemID PSX
 097A76	b	u	0	MainRAM	Garnet
 097A75	d	u	0	MainRAM	Onyx
 097A77	b	u	0	MainRAM	Opal
-097A70	b	u	0	MainRAM	Staurolite
 097A74	b	u	0	MainRAM	Turquoise
 097A72	b	u	0	MainRAM	Zircon
 0	S	_	1		Equipment
 097A42	b	u	0	MainRAM	Alucard Mail
+097A8C	b	u	0	MainRAM	Alucart Mail
 09799A	w	u	0	MainRAM	Alucard Shield
+097A31	b	u	0	MainRAM	Alucart Shield
 097A05	w	u	0	MainRAM	Alucard Sword
 097A32	b	u	0	MainRAM	Alucart Sword
 097A83	b	u	0	MainRAM	Ankh of Life
+097A4C	b	u	0	MainRAM	Axe Lord armor
 097A07	b	u	0	MainRAM	Badelaire
 097A50	b	u	0	MainRAM	Bandanna
 097A4F	b	u	0	MainRAM	Ballroom Mask
@@ -131,6 +133,7 @@ SystemID PSX
 097A49	b	u	0	MainRAM	Fury Plate
 097A53	b	u	0	MainRAM	Googles
 0979E0	b	u	0	MainRAM	Gladius
+097A4B	b	u	0	MainRAM	God's Garb
 097995	b	u	0	MainRAM	Goddess Shield
 097A3A	b	u	0	MainRAM	Gold Plate
 097A7B	b	u	0	MainRAM	Gold Ring
@@ -173,6 +176,7 @@ SystemID PSX
 097A7C	b	u	0	MainRAM	Silver Ring
 097A39	b	u	0	MainRAM	Silver Plate
 097996	b	u	0	MainRAM	Shaman Shield
+097A70	b	u	0	MainRAM	Staurolite
 097A41	b	u	0	MainRAM	Spike Breaker
 097A0D	b	u	0	MainRAM	Star Flail
 097A56	b	u	0	MainRAM	Steel Helm

@@ -8,7 +8,8 @@ class Item:
     name: str
     type: int
     id: int
-    entities: list[int] = None #[[ZONE, INDEX, [ADDRESSES]]]
+    entities: list[int] = None #[ZONE, INDEX, [ADDRESSES]]
+
 
 @dataclass(frozen=True)
 class Relic:
@@ -20,7 +21,6 @@ class Relic:
 
 ITEMS_LIST = []
 RELICS_LIST = []
-
 
 ITEMS_LIST.append(Item("Heart", TYPES.HEART, 0))
 ITEMS_LIST.append(Item("Big Heart", TYPES.HEART, 1))
@@ -68,7 +68,7 @@ ITEMS_LIST.append(Item("Grapes", TYPES.USABLE, 32))
 ITEMS_LIST.append(Item("Strawberry", TYPES.USABLE, 33))
 ITEMS_LIST.append(Item("Pineapple", TYPES.USABLE, 34))
 ITEMS_LIST.append(Item("Peanuts", TYPES.USABLE, 35, [[ZONEID.CHI, 9, [0x1a48, 0x1dc2]], [ZONEID.CHI, 10, [0x1a52, 0x1da4]], [ZONEID.CHI, 11, [0x1a5c, 0x1dae]], [ZONEID.CHI, 12, [0x1a66, 0x1db8]]]))
-ITEMS_LIST.append(Item("Toadstool", TYPES.USABLE, 36, [[ZONEID.NO4, 26, [0x3c58, 0x4b3c]], [ZONEID.NO4, 33, [0x36d6, 0x4876]], [ZONEID.RNO4, 2, [0x36d6, 0x4876]]]))
+ITEMS_LIST.append(Item("Toadstool", TYPES.USABLE, 36, [[ZONEID.NO4, 26, [0x3c58, 0x4b3c]], [ZONEID.NO4, 33, [0x36d6, 0x4876]], [ZONEID.RNO4, 2, [0x31aa, 0x4078]]]))
 ITEMS_LIST.append(Item("Shiitake", TYPES.USABLE, 37, [[ZONEID.NO4, 12, [0x3550, 0x461e]], [ZONEID.NO4, 35, [0x36ae, 0x4736]], [ZONEID.NO4, 27, [0x3bea, 0x4b0a]], [ZONEID.NO4, 32, [0x36cc, 0x47ea]], [ZONEID.CHI, 7, [0x1c46, 0x1fc0]], \
                                                  [ZONEID.CHI, 6, [0x1c6e, 0x1fca]], [ZONEID.RNO4, 1, [0x3bfa, 0x4b68]], [ZONEID.RNO4, 10, [0x31d2, 0x42a8]], [ZONEID.RNO4, 9, [0x3236, 0x42b2]], [ZONEID.RNO4, 3, [0x31b4, 0x4082]], \
                                                     [ZONEID.RCHI, 6, [0x1bd6, 0x204a]], [ZONEID.RCHI, 7, [0x1c30, 0x207c]]]))
