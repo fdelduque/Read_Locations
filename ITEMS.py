@@ -383,3 +383,13 @@ ITEMS_LIST.append(Item("RBO7 Life Vessel", TYPES.BREWARD, -3, [[ZONEID.RNO2, 19,
 ITEMS_LIST.append(Item("RBO8 Life Vessel", TYPES.BREWARD, -2, [[ZONEID.RCAT, 5, [0x06a61adc]]]))
 #Darkwing Bat RBO9
 ITEMS_LIST.append(Item("RBO9 Life Vessel", TYPES.BREWARD, -3, [[ZONEID.NZ1, 20, [0x059bdb08]]]))
+
+def get_nameid(num_id, heart = False):
+    for i in ITEMS_LIST:
+        if i.id == num_id:
+            if heart and (i.type == TYPES.HEART or i.type == TYPES.GOLD or i.type == TYPES.POWERUP):
+                return (i.name, i.id)
+            else:
+                return (i.name, i.id + TILEIDOFFSET)
+            
+    return("Empty hand", 0)
