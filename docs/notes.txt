@@ -354,3 +354,6 @@ item 195, 217 missing?
 097b66-097b6e  -> Cloak inventory offset 187
 097b6f-097b8e -> Trinkets offset 169 / a9
 
+nop - 00000000
+addiu v0, v0, 0xffffffff - 2442ffff 001001 00010 00010 1111111111111111 v0 = 00010 v1 = 00011
+sw v0, 0x0010(sp) - 101011 11101 00010 0000000000010000

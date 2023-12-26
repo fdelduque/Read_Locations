@@ -1,5 +1,5 @@
 import math, re
-import ITEMS, ZONES
+import ITEMS, ZONES, TYPES
 
 TILEIDOFFSET = 0X80
 
@@ -163,9 +163,18 @@ def dumpRandomitems():
     dumpResults("id.txt", id)
     dumpResults("tiles.txt", tiles)
     dumpResults("results.txt", results)"""
+
+def items_ap():
+    types = ["Heart", "Gold", "Subweapon", "Powerup", "Weapon1", "Weapon2", "Shield", "Helmet", "Armor", "Cloak", "Accessory", "Usable", "Relic", "BReward"]
+    results = []
+    for i in ITEMS.ITEMS_LIST:
+        results.append(f'"{i.name}": ItemData({i.id}, Type.{types[i.type].upper()}),\n')
     
+    dumpResults("itemsap.txt", results)
+
 
 print(hex(romOffset(0x069d1598, 0x1300)))
+items_ap()
 
 
 #ZONES_LIST.append(Zone(48, "RBO7", "Akmodan II", 0x069d1598, rew=0x1300))
