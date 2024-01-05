@@ -38,6 +38,25 @@ def dumpLocation():
                 if e[0] == z.num:
                     results.append(f"{z.id}, {e[1]} -> {i.name}")
 
+    results.sort()
+    with open("items.txt", "w") as fd:
+        for r in results:
+            fd.write(r)
+            fd.write("\n")
+
+def dumpLocationAP():
+    results = []
+    for z in ZONES.ZONES_LIST:
+        if z.id == "ST0":
+            continue
+        for i in ITEMS.ITEMS_LIST:
+            if not i.entities:
+                continue
+            for e in i.entities:
+                if e[0] == z.num:
+                    results.append(f'"{z.id} - {i.name}": LocationData("{z.name}", {e[1]}),')
+
+    results.sort()
     with open("items.txt", "w") as fd:
         for r in results:
             fd.write(r)
@@ -174,7 +193,7 @@ def items_ap():
 
 
 print(hex(romOffset(0x069d1598, 0x1300)))
-items_ap()
+dumpLocationAP()
 
 
 #ZONES_LIST.append(Zone(48, "RBO7", "Akmodan II", 0x069d1598, rew=0x1300))

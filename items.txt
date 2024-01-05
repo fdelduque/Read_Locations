@@ -1,391 +1,391 @@
-ARE, 1 -> Shield rod
-ARE, 4 -> Knight shield
-ARE, 6 -> Green tea
-ARE, 7 -> Holy sword
-ARE, 5 -> Library card
-ARE, 3 -> Blood cloak
-ARE, 0 -> Heart Vessel
-ARE, 2 -> B02 Life Vessel
-CAT, 17 -> Monster vial 3
-CAT, 18 -> Monster vial 3
-CAT, 19 -> Monster vial 3
-CAT, 20 -> Monster vial 3
-CAT, 14 -> Karma Coin
-CAT, 13 -> Karma Coin
-CAT, 15 -> Pork bun
-CAT, 12 -> Cross shuriken
-CAT, 11 -> Cross shuriken
-CAT, 3 -> Mormegil
-CAT, 1 -> Icebrand
-CAT, 4 -> Library card
-CAT, 16 -> Spike Breaker
-CAT, 2 -> Walk armor
-CAT, 7 -> Ballroom mask
-CAT, 0 -> Cat-eye circl.
-CAT, 8 -> Bloodstone
-CAT, 6 -> Heart Vessel
-CAT, 10 -> Heart Vessel
-CAT, 9 -> Life Vessel
-CAT, 1 -> BO1 Life Vessel
-CEN, -1 -> Holy glasses
-CHI, 5 -> Combat knife
-CHI, 1 -> Karma Coin
-CHI, 9 -> Peanuts
-CHI, 10 -> Peanuts
-CHI, 11 -> Peanuts
-CHI, 12 -> Peanuts
-CHI, 7 -> Shiitake
-CHI, 6 -> Shiitake
-CHI, 8 -> Barley tea
-CHI, -1 -> Turkey
-CHI, 0 -> Power of Sire
-CHI, 4 -> Ring of Ares
-CHI, 5 -> B07 Life Vessel
-DAI, 5 -> Magic Missile
-DAI, -1 -> Grape juice
-DAI, 6 -> Shuriken
-DAI, 7 -> TNT
-DAI, 8 -> Boomerang
-DAI, 14 -> Cutlass
-DAI, 1 -> Morningstar
-DAI, 11 -> Str. potion
-DAI, 15 -> Potion
-DAI, 10 -> Silver plate
-DAI, 9 -> Goggles
-DAI, 13 -> Zircon
-DAI, 3 -> Aquamarine
-DAI, 2 -> Silver Ring
-DAI, 4 -> Mystic pendant
-DAI, 0 -> Ankh of Life
-DAI, 12 -> Life Vessel
-DAI, 6 -> BO5 Life Vessel
-LIB, 5 -> Takemitsu
-LIB, 7 -> Frankfurter
-LIB, 2 -> Holy rod
-LIB, 9 -> Antivenom
-LIB, 8 -> Potion
-LIB, 4 -> Bronze cuirass
-LIB, -1 -> Dracula tunic
-LIB, -1 -> Axe Lord armor
-LIB, 1 -> Stone mask
-LIB, 10 -> Topaz circlet
-LIB, 6 -> Onyx
-LIB, 7 -> BO9 Life Vessel
-NO0, 3 -> Life apple
-NO0, 12 -> Hammer
-NO0, 4 -> Hammer
-NO0, 13 -> Str. potion
-NO0, 11 -> Attack potion
-NO0, 5 -> Potion
-NO0, 10 -> Library card
-NO0, 1 -> Alucart shield
-NO0, 7 -> Alucart sword
-NO0, 6 -> Alucart mail
-NO0, 2 -> Heart Vessel
-NO0, 9 -> Heart Vessel
-NO0, 0 -> Life Vessel
-NO0, 8 -> Life Vessel
-NO1, -1 -> Pot roast
-NO1, 4 -> Gladius
-NO1, 0 -> Jewel knuckles
-NO1, 1 -> Mirror cuirass
-NO1, 6 -> Zircon
-NO1, 3 -> Garnet
-NO1, 2 -> Heart Vessel
-NO1, 5 -> Life Vessel
-NO1, 4 -> BO4 Life Vessel
-NO2, 6 -> Cheese
-NO2, 4 -> Broadsword
-NO2, 10 -> Estoc
-NO2, 11 -> Iron ball
-NO2, 9 -> Luck potion
-NO2, 8 -> Resist fire
-NO2, 7 -> Manna prism
-NO2, 5 -> Onyx
-NO2, 12 -> Garnet
-NO2, 1 -> Heart Vessel
-NO2, 0 -> BO0 Life Vessel
-NO3, -1 -> Pot roast
-NO3, -1 -> Turkey
-NO3, 2 -> Life apple
-NO3, 4 -> Shield potion
-NO3, 5 -> Holy mail
-NO3, 0 -> Heart Vessel
-NO3, 7 -> Heart Vessel
-NO3, 1 -> Life Vessel
-NO3, 6 -> Life Vessel
-NO3, 8 -> Life Vessel
-NP3, 9 -> Jewel sword
-NP3, 2 -> Life apple
-NP3, 4 -> Shield potion
-NP3, 5 -> Holy mail
-NP3, 0 -> Heart Vessel
-NP3, 7 -> Heart Vessel
-NP3, 1 -> Life Vessel
-NP3, 6 -> Life Vessel
-NP3, 8 -> Life Vessel
-NO4, 7 -> Herald Shield
-NO4, 36 -> Nunchaku
-NO4, 26 -> Toadstool
-NO4, 33 -> Toadstool
-NO4, 12 -> Shiitake
-NO4, 35 -> Shiitake
-NO4, 27 -> Shiitake
-NO4, 32 -> Shiitake
-NO4, 21 -> Pot roast
-NO4, 14 -> Meal ticket
-NO4, 15 -> Meal ticket
-NO4, 16 -> Meal ticket
-NO4, 17 -> Meal ticket
-NO4, 30 -> Pentagram
-NO4, 23 -> Knuckle duster
-NO4, 19 -> Scimitar
-NO4, 13 -> Claymore
-NO4, 4 -> Antivenom
-NO4, 20 -> Resist ice
-NO4, 25 -> Elixir
-NO4, 11 -> Bandanna
-NO4, 2 -> Crystal cloak
-NO4, 18 -> Moonstone
-NO4, 9 -> Zircon
-NO4, 22 -> Onyx
-NO4, -1 -> Gold Ring
-NO4, 31 -> Secret boots
-NO4, 0 -> Heart Vessel
-NO4, 29 -> Heart Vessel
-NO4, 1 -> Life Vessel
-NO4, 28 -> Life Vessel
-NO4, 6 -> Life Vessel
-NO4, 5 -> Life Vessel
-NO4, 24 -> Life Vessel
-NO4, 3 -> B03 Life Vessel
-NZ0, 8 -> Leather shield
-NZ0, 9 -> Basilard
-NZ0, 7 -> Resist thunder
-NZ0, 10 -> Potion
-NZ0, 0 -> Hide cuirass
-NZ0, 6 -> Sunglasses
-NZ0, 2 -> Cloth cape
-NZ0, 1 -> Heart Vessel
-NZ0, 3 -> Life Vessel
-NZ0, 5 -> BO8 Life Vessel
-NZ1, 8 -> Shaman shield
-NZ1, 0 -> Magic Missile
-NZ1, -1 -> Pot roast
-NZ1, 1 -> Pentagram
-NZ1, -1 -> Shuriken
-NZ1, -1 -> TNT
-NZ1, -1 -> Bwaka knife
-NZ1, 7 -> Bekatowa
-NZ1, 3 -> Star flail
-NZ1, 4 -> Gold plate
-NZ1, 9 -> Ice mail
-NZ1, 6 -> Healing mail
-NZ1, 5 -> Steel helm
-NZ1, 11 -> Heart Vessel
-NZ1, 10 -> Life Vessel
-NZ1, 7 -> BO10 Life Vessel
-NZ1, 18 -> RBO4 Life Vessel
-NZ1, 20 -> RBO9 Life Vessel
-TOP, 7 -> Frankfurter
-TOP, 6 -> Pot roast
-TOP, 4 -> Sirloin
-TOP, 1 -> Turkey
-TOP, 5 -> Turkey
-TOP, 3 -> Tyrfing
-TOP, 12 -> Falchion
-TOP, 8 -> Resist stone
-TOP, 10 -> Resist holy
-TOP, 9 -> Resist dark
-TOP, 11 -> Platinum mail
-TOP, 2 -> Fire mail
-TOP, 0 -> Turquoise
-TOP, 15 -> Heart Vessel
-TOP, 16 -> Heart Vessel
-TOP, 18 -> Heart Vessel
-TOP, 13 -> Life Vessel
-TOP, 14 -> Life Vessel
-RARE, 2 -> Buffalo star
-RARE, 3 -> Gram
-RARE, 0 -> Fury plate
-RARE, 1 -> Zircon
-RARE, 4 -> Aquamarine
-RARE, 5 -> Heart Vessel
-RARE, 7 -> Heart Vessel
-RARE, 6 -> Life Vessel
-RARE, 2 -> RBO0 Life Vessel
-RCAT, 4 -> Karma Coin
-RCAT, 5 -> Karma Coin
-RCAT, 0 -> Magic Missile
-RCAT, 6 -> Red bean bun
-RCAT, 1 -> Buffalo star
-RCAT, 12 -> Attack potion
-RCAT, 11 -> Shield potion
-RCAT, 3 -> Resist fire
-RCAT, 2 -> Resist thunder
-RCAT, 7 -> Elixir
-RCAT, 8 -> Library card
-RCAT, 17 -> Ruby circlet
-RCAT, 14 -> Diamond
-RCAT, 13 -> Necklace of J
-RCAT, 10 -> Heart Vessel
-RCAT, 15 -> Heart Vessel
-RCAT, 16 -> Life Vessel
-RCAT, 9 -> Life Vessel
-RCAT, 5 -> RBO8 Life Vessel
-RCHI, 6 -> Shiitake
-RCHI, 7 -> Shiitake
-RCHI, 3 -> Green tea
-RCHI, 0 -> Power of Sire
-RCHI, 4 -> Power of Sire
-RCHI, 2 -> Alucard sword
-RCHI, 1 -> Life apple
-RCHI, 21 -> RBO2 Life Vessel
-RDAI, 15 -> Magic Missile
-RDAI, 6 -> Shuriken
-RDAI, 7 -> TNT
-RDAI, 14 -> Bwaka knife
-RDAI, 8 -> Boomerang
-RDAI, 9 -> Javelin
-RDAI, 13 -> Talwar
-RDAI, 2 -> Fire boomerang
-RDAI, 11 -> Smart potion
-RDAI, 10 -> Manna prism
-RDAI, 16 -> Twilight cloak
-RDAI, 4 -> Zircon
-RDAI, 3 -> Diamond
-RDAI, 5 -> Heart Vessel
-RDAI, 17 -> Heart Vessel
-RDAI, 12 -> Life Vessel
-RDAI, 17 -> RBO3 Life Vessel
-RLIB, 6 -> Neutron bomb
-RLIB, 7 -> Badelaire
-RLIB, 3 -> Resist fire
-RLIB, 4 -> Resist ice
-RLIB, 5 -> Resist stone
-RLIB, 2 -> Library card
-RLIB, 8 -> Staurolite
-RLIB, 0 -> Turquoise
-RLIB, 1 -> Opal
-RNO0, 9 -> Meal ticket
-RNO0, 10 -> Iron ball
-RNO0, 11 -> Heart Refresh
-RNO0, 2 -> Antivenom
-RNO0, 8 -> Resist fire
-RNO0, 7 -> Resist thunder
-RNO0, 6 -> Resist holy
-RNO0, 5 -> Resist dark
-RNO0, 1 -> Potion
-RNO0, 0 -> Library card
-RNO0, 4 -> Heart Vessel
-RNO0, 3 -> Life Vessel
-RNO1, 1 -> Shotel
-RNO1, -1 -> Dim Sum set
-RNO1, 2 -> Hammer
-RNO1, 4 -> Luck potion
-RNO1, 5 -> Shield potion
-RNO1, 6 -> High potion
-RNO1, 7 -> Garnet
-RNO1, 0 -> Heart Vessel
-RNO1, 3 -> Life Vessel
-RNO2, 10 -> Shuriken
-RNO2, 1 -> Sword of Hador
-RNO2, 9 -> Heart Refresh
-RNO2, 4 -> Luck potion
-RNO2, 3 -> Shield potion
-RNO2, 2 -> High potion
-RNO2, 5 -> Manna prism
-RNO2, 7 -> Alucard mail
-RNO2, 6 -> Aquamarine
-RNO2, 0 -> Opal
-RNO2, 11 -> Heart Vessel
-RNO2, 8 -> Life Vessel
-RNO2, 19 -> RBO7 Life Vessel
-RNO3, -1 -> Pot roast
-RNO3, 7 -> Fire boomerang
-RNO3, 1 -> Antivenom
-RNO3, 0 -> Hammer
-RNO3, 2 -> High potion
-RNO3, 6 -> Beryl circlet
-RNO3, 4 -> Zircon
-RNO3, 5 -> Opal
-RNO3, 9 -> Talisman
-RNO3, 3 -> Heart Vessel
-RNO3, 8 -> Life Vessel
-RNO4, 0 -> Alucard shield
-RNO4, 2 -> Toadstool
-RNO4, 1 -> Shiitake
-RNO4, 10 -> Shiitake
-RNO4, 9 -> Shiitake
-RNO4, 3 -> Shiitake
-RNO4, 22 -> Pot roast
-RNO4, 16 -> Meal ticket
-RNO4, 17 -> Meal ticket
-RNO4, 18 -> Meal ticket
-RNO4, 19 -> Meal ticket
-RNO4, 20 -> Meal ticket
-RNO4, 5 -> Bat Pentagram
-RNO4, 23 -> Dark Blade
-RNO4, 26 -> Osafune katana
-RNO4, 8 -> Potion
-RNO4, 25 -> Elixir
-RNO4, 24 -> Manna prism
-RNO4, 14 -> Zircon
-RNO4, 21 -> Zircon
-RNO4, 4 -> Garnet
-RNO4, 11 -> Opal
-RNO4, 13 -> Diamond
-RNO4, 7 -> Heart Vessel
-RNO4, 15 -> Heart Vessel
-RNO4, 12 -> Life Vessel
-RNO4, 6 -> Life Vessel
-RNO4, 4 -> RBO5 Life Vessel
-RNZ0, 3 -> Goddess shield
-RNZ0, 5 -> Katana
-RNZ0, 9 -> Resist dark
-RNZ0, 6 -> High potion
-RNZ0, 4 -> Manna prism
-RNZ0, 7 -> Turquoise
-RNZ0, 8 -> Ring of Arcana
-RNZ0, 1 -> Heart Vessel
-RNZ0, 2 -> Life Vessel
-RNZ0, 5 -> RBO1 Life Vessel
-RNZ1, 1 -> Karma Coin
-RNZ1, 0 -> Magic Missile
-RNZ1, -1 -> Pot roast
-RNZ1, -1 -> Shuriken
-RNZ1, -1 -> TNT
-RNZ1, -1 -> Bwaka knife
-RNZ1, 3 -> Luminus
-RNZ1, 11 -> Moon rod
-RNZ1, 7 -> Life apple
-RNZ1, 2 -> Str. potion
-RNZ1, 4 -> Smart potion
-RNZ1, 5 -> Dragon helm
-RNZ1, 8 -> Sunstone
-RNZ1, 6 -> Diamond
-RNZ1, 10 -> Heart Vessel
-RNZ1, 9 -> Life Vessel
-RTOP, 0 -> Sword of Dawn
-RTOP, 4 -> Bastard sword
-RTOP, 1 -> Iron ball
-RTOP, 17 -> Resist fire
-RTOP, 19 -> Resist thunder
-RTOP, 18 -> Resist ice
-RTOP, 20 -> Resist stone
-RTOP, 21 -> High potion
-RTOP, 24 -> Library card
-RTOP, 23 -> Lightning mail
-RTOP, 11 -> Royal cloak
-RTOP, 2 -> Zircon
-RTOP, 22 -> Garnet
-RTOP, 6 -> Heart Vessel
-RTOP, 8 -> Heart Vessel
-RTOP, 10 -> Heart Vessel
-RTOP, 9 -> Life Vessel
-RTOP, 7 -> Life Vessel
-RTOP, 5 -> Life Vessel
-BO3, 21 -> Pot roast
-BO3, 19 -> Scimitar
-BO3, 20 -> Resist ice
-BO3, 2 -> Crystal cloak
+"ARE - B02 Life Vessel": LocationData("Colosseum", 2),
+"ARE - Blood cloak": LocationData("Colosseum", 3),
+"ARE - Green tea": LocationData("Colosseum", 6),
+"ARE - Heart Vessel": LocationData("Colosseum", 0),
+"ARE - Holy sword": LocationData("Colosseum", 7),
+"ARE - Knight shield": LocationData("Colosseum", 4),
+"ARE - Library card": LocationData("Colosseum", 5),
+"ARE - Shield rod": LocationData("Colosseum", 1),
+"BO3 - Crystal cloak": LocationData("Scylla", 2),
+"BO3 - Pot roast": LocationData("Scylla", 21),
+"BO3 - Resist ice": LocationData("Scylla", 20),
+"BO3 - Scimitar": LocationData("Scylla", 19),
+"CAT - BO1 Life Vessel": LocationData("Catacombs", 1),
+"CAT - Ballroom mask": LocationData("Catacombs", 7),
+"CAT - Bloodstone": LocationData("Catacombs", 8),
+"CAT - Cat-eye circl.": LocationData("Catacombs", 0),
+"CAT - Cross shuriken": LocationData("Catacombs", 11),
+"CAT - Cross shuriken": LocationData("Catacombs", 12),
+"CAT - Heart Vessel": LocationData("Catacombs", 10),
+"CAT - Heart Vessel": LocationData("Catacombs", 6),
+"CAT - Icebrand": LocationData("Catacombs", 1),
+"CAT - Karma Coin": LocationData("Catacombs", 13),
+"CAT - Karma Coin": LocationData("Catacombs", 14),
+"CAT - Library card": LocationData("Catacombs", 4),
+"CAT - Life Vessel": LocationData("Catacombs", 9),
+"CAT - Monster vial 3": LocationData("Catacombs", 17),
+"CAT - Monster vial 3": LocationData("Catacombs", 18),
+"CAT - Monster vial 3": LocationData("Catacombs", 19),
+"CAT - Monster vial 3": LocationData("Catacombs", 20),
+"CAT - Mormegil": LocationData("Catacombs", 3),
+"CAT - Pork bun": LocationData("Catacombs", 15),
+"CAT - Spike Breaker": LocationData("Catacombs", 16),
+"CAT - Walk armor": LocationData("Catacombs", 2),
+"CEN - Holy glasses": LocationData("Center Cube", -1),
+"CHI - B07 Life Vessel": LocationData("Abandoned Mine", 5),
+"CHI - Barley tea": LocationData("Abandoned Mine", 8),
+"CHI - Combat knife": LocationData("Abandoned Mine", 5),
+"CHI - Karma Coin": LocationData("Abandoned Mine", 1),
+"CHI - Peanuts": LocationData("Abandoned Mine", 10),
+"CHI - Peanuts": LocationData("Abandoned Mine", 11),
+"CHI - Peanuts": LocationData("Abandoned Mine", 12),
+"CHI - Peanuts": LocationData("Abandoned Mine", 9),
+"CHI - Power of Sire": LocationData("Abandoned Mine", 0),
+"CHI - Ring of Ares": LocationData("Abandoned Mine", 4),
+"CHI - Shiitake": LocationData("Abandoned Mine", 6),
+"CHI - Shiitake": LocationData("Abandoned Mine", 7),
+"CHI - Turkey": LocationData("Abandoned Mine", -1),
+"DAI - Ankh of Life": LocationData("Royal Chapel", 0),
+"DAI - Aquamarine": LocationData("Royal Chapel", 3),
+"DAI - BO5 Life Vessel": LocationData("Royal Chapel", 6),
+"DAI - Boomerang": LocationData("Royal Chapel", 8),
+"DAI - Cutlass": LocationData("Royal Chapel", 14),
+"DAI - Goggles": LocationData("Royal Chapel", 9),
+"DAI - Grape juice": LocationData("Royal Chapel", -1),
+"DAI - Life Vessel": LocationData("Royal Chapel", 12),
+"DAI - Magic Missile": LocationData("Royal Chapel", 5),
+"DAI - Morningstar": LocationData("Royal Chapel", 1),
+"DAI - Mystic pendant": LocationData("Royal Chapel", 4),
+"DAI - Potion": LocationData("Royal Chapel", 15),
+"DAI - Shuriken": LocationData("Royal Chapel", 6),
+"DAI - Silver Ring": LocationData("Royal Chapel", 2),
+"DAI - Silver plate": LocationData("Royal Chapel", 10),
+"DAI - Str. potion": LocationData("Royal Chapel", 11),
+"DAI - TNT": LocationData("Royal Chapel", 7),
+"DAI - Zircon": LocationData("Royal Chapel", 13),
+"LIB - Antivenom": LocationData("Long Library", 9),
+"LIB - Axe Lord armor": LocationData("Long Library", -1),
+"LIB - BO9 Life Vessel": LocationData("Long Library", 7),
+"LIB - Bronze cuirass": LocationData("Long Library", 4),
+"LIB - Dracula tunic": LocationData("Long Library", -1),
+"LIB - Frankfurter": LocationData("Long Library", 7),
+"LIB - Holy rod": LocationData("Long Library", 2),
+"LIB - Onyx": LocationData("Long Library", 6),
+"LIB - Potion": LocationData("Long Library", 8),
+"LIB - Stone mask": LocationData("Long Library", 1),
+"LIB - Takemitsu": LocationData("Long Library", 5),
+"LIB - Topaz circlet": LocationData("Long Library", 10),
+"NO0 - Alucart mail": LocationData("Marble Gallery", 6),
+"NO0 - Alucart shield": LocationData("Marble Gallery", 1),
+"NO0 - Alucart sword": LocationData("Marble Gallery", 7),
+"NO0 - Attack potion": LocationData("Marble Gallery", 11),
+"NO0 - Hammer": LocationData("Marble Gallery", 12),
+"NO0 - Hammer": LocationData("Marble Gallery", 4),
+"NO0 - Heart Vessel": LocationData("Marble Gallery", 2),
+"NO0 - Heart Vessel": LocationData("Marble Gallery", 9),
+"NO0 - Library card": LocationData("Marble Gallery", 10),
+"NO0 - Life Vessel": LocationData("Marble Gallery", 0),
+"NO0 - Life Vessel": LocationData("Marble Gallery", 8),
+"NO0 - Life apple": LocationData("Marble Gallery", 3),
+"NO0 - Potion": LocationData("Marble Gallery", 5),
+"NO0 - Str. potion": LocationData("Marble Gallery", 13),
+"NO1 - BO4 Life Vessel": LocationData("Outer Wall", 4),
+"NO1 - Garnet": LocationData("Outer Wall", 3),
+"NO1 - Gladius": LocationData("Outer Wall", 4),
+"NO1 - Heart Vessel": LocationData("Outer Wall", 2),
+"NO1 - Jewel knuckles": LocationData("Outer Wall", 0),
+"NO1 - Life Vessel": LocationData("Outer Wall", 5),
+"NO1 - Mirror cuirass": LocationData("Outer Wall", 1),
+"NO1 - Pot roast": LocationData("Outer Wall", -1),
+"NO1 - Zircon": LocationData("Outer Wall", 6),
+"NO2 - BO0 Life Vessel": LocationData("Olrox큦 Quarters", 0),
+"NO2 - Broadsword": LocationData("Olrox큦 Quarters", 4),
+"NO2 - Cheese": LocationData("Olrox큦 Quarters", 6),
+"NO2 - Estoc": LocationData("Olrox큦 Quarters", 10),
+"NO2 - Garnet": LocationData("Olrox큦 Quarters", 12),
+"NO2 - Heart Vessel": LocationData("Olrox큦 Quarters", 1),
+"NO2 - Iron ball": LocationData("Olrox큦 Quarters", 11),
+"NO2 - Luck potion": LocationData("Olrox큦 Quarters", 9),
+"NO2 - Manna prism": LocationData("Olrox큦 Quarters", 7),
+"NO2 - Onyx": LocationData("Olrox큦 Quarters", 5),
+"NO2 - Resist fire": LocationData("Olrox큦 Quarters", 8),
+"NO3 - Heart Vessel": LocationData("Castle Entrance", 0),
+"NO3 - Heart Vessel": LocationData("Castle Entrance", 7),
+"NO3 - Holy mail": LocationData("Castle Entrance", 5),
+"NO3 - Life Vessel": LocationData("Castle Entrance", 1),
+"NO3 - Life Vessel": LocationData("Castle Entrance", 6),
+"NO3 - Life Vessel": LocationData("Castle Entrance", 8),
+"NO3 - Life apple": LocationData("Castle Entrance", 2),
+"NO3 - Pot roast": LocationData("Castle Entrance", -1),
+"NO3 - Shield potion": LocationData("Castle Entrance", 4),
+"NO3 - Turkey": LocationData("Castle Entrance", -1),
+"NO4 - Antivenom": LocationData("Underground Caverns", 4),
+"NO4 - B03 Life Vessel": LocationData("Underground Caverns", 3),
+"NO4 - Bandanna": LocationData("Underground Caverns", 11),
+"NO4 - Claymore": LocationData("Underground Caverns", 13),
+"NO4 - Crystal cloak": LocationData("Underground Caverns", 2),
+"NO4 - Elixir": LocationData("Underground Caverns", 25),
+"NO4 - Gold Ring": LocationData("Underground Caverns", -1),
+"NO4 - Heart Vessel": LocationData("Underground Caverns", 0),
+"NO4 - Heart Vessel": LocationData("Underground Caverns", 29),
+"NO4 - Herald Shield": LocationData("Underground Caverns", 7),
+"NO4 - Knuckle duster": LocationData("Underground Caverns", 23),
+"NO4 - Life Vessel": LocationData("Underground Caverns", 1),
+"NO4 - Life Vessel": LocationData("Underground Caverns", 24),
+"NO4 - Life Vessel": LocationData("Underground Caverns", 28),
+"NO4 - Life Vessel": LocationData("Underground Caverns", 5),
+"NO4 - Life Vessel": LocationData("Underground Caverns", 6),
+"NO4 - Meal ticket": LocationData("Underground Caverns", 14),
+"NO4 - Meal ticket": LocationData("Underground Caverns", 15),
+"NO4 - Meal ticket": LocationData("Underground Caverns", 16),
+"NO4 - Meal ticket": LocationData("Underground Caverns", 17),
+"NO4 - Moonstone": LocationData("Underground Caverns", 18),
+"NO4 - Nunchaku": LocationData("Underground Caverns", 36),
+"NO4 - Onyx": LocationData("Underground Caverns", 22),
+"NO4 - Pentagram": LocationData("Underground Caverns", 30),
+"NO4 - Pot roast": LocationData("Underground Caverns", 21),
+"NO4 - Resist ice": LocationData("Underground Caverns", 20),
+"NO4 - Scimitar": LocationData("Underground Caverns", 19),
+"NO4 - Secret boots": LocationData("Underground Caverns", 31),
+"NO4 - Shiitake": LocationData("Underground Caverns", 12),
+"NO4 - Shiitake": LocationData("Underground Caverns", 27),
+"NO4 - Shiitake": LocationData("Underground Caverns", 32),
+"NO4 - Shiitake": LocationData("Underground Caverns", 35),
+"NO4 - Toadstool": LocationData("Underground Caverns", 26),
+"NO4 - Toadstool": LocationData("Underground Caverns", 33),
+"NO4 - Zircon": LocationData("Underground Caverns", 9),
+"NP3 - Heart Vessel": LocationData("Castle Entrance (after visiting Alchemy Laboratory)", 0),
+"NP3 - Heart Vessel": LocationData("Castle Entrance (after visiting Alchemy Laboratory)", 7),
+"NP3 - Holy mail": LocationData("Castle Entrance (after visiting Alchemy Laboratory)", 5),
+"NP3 - Jewel sword": LocationData("Castle Entrance (after visiting Alchemy Laboratory)", 9),
+"NP3 - Life Vessel": LocationData("Castle Entrance (after visiting Alchemy Laboratory)", 1),
+"NP3 - Life Vessel": LocationData("Castle Entrance (after visiting Alchemy Laboratory)", 6),
+"NP3 - Life Vessel": LocationData("Castle Entrance (after visiting Alchemy Laboratory)", 8),
+"NP3 - Life apple": LocationData("Castle Entrance (after visiting Alchemy Laboratory)", 2),
+"NP3 - Shield potion": LocationData("Castle Entrance (after visiting Alchemy Laboratory)", 4),
+"NZ0 - BO8 Life Vessel": LocationData("Alchemy Laboratory", 5),
+"NZ0 - Basilard": LocationData("Alchemy Laboratory", 9),
+"NZ0 - Cloth cape": LocationData("Alchemy Laboratory", 2),
+"NZ0 - Heart Vessel": LocationData("Alchemy Laboratory", 1),
+"NZ0 - Hide cuirass": LocationData("Alchemy Laboratory", 0),
+"NZ0 - Leather shield": LocationData("Alchemy Laboratory", 8),
+"NZ0 - Life Vessel": LocationData("Alchemy Laboratory", 3),
+"NZ0 - Potion": LocationData("Alchemy Laboratory", 10),
+"NZ0 - Resist thunder": LocationData("Alchemy Laboratory", 7),
+"NZ0 - Sunglasses": LocationData("Alchemy Laboratory", 6),
+"NZ1 - BO10 Life Vessel": LocationData("Clock Tower", 7),
+"NZ1 - Bekatowa": LocationData("Clock Tower", 7),
+"NZ1 - Bwaka knife": LocationData("Clock Tower", -1),
+"NZ1 - Gold plate": LocationData("Clock Tower", 4),
+"NZ1 - Healing mail": LocationData("Clock Tower", 6),
+"NZ1 - Heart Vessel": LocationData("Clock Tower", 11),
+"NZ1 - Ice mail": LocationData("Clock Tower", 9),
+"NZ1 - Life Vessel": LocationData("Clock Tower", 10),
+"NZ1 - Magic Missile": LocationData("Clock Tower", 0),
+"NZ1 - Pentagram": LocationData("Clock Tower", 1),
+"NZ1 - Pot roast": LocationData("Clock Tower", -1),
+"NZ1 - RBO4 Life Vessel": LocationData("Clock Tower", 18),
+"NZ1 - RBO9 Life Vessel": LocationData("Clock Tower", 20),
+"NZ1 - Shaman shield": LocationData("Clock Tower", 8),
+"NZ1 - Shuriken": LocationData("Clock Tower", -1),
+"NZ1 - Star flail": LocationData("Clock Tower", 3),
+"NZ1 - Steel helm": LocationData("Clock Tower", 5),
+"NZ1 - TNT": LocationData("Clock Tower", -1),
+"RARE - Aquamarine": LocationData("Reverse Colosseum", 4),
+"RARE - Buffalo star": LocationData("Reverse Colosseum", 2),
+"RARE - Fury plate": LocationData("Reverse Colosseum", 0),
+"RARE - Gram": LocationData("Reverse Colosseum", 3),
+"RARE - Heart Vessel": LocationData("Reverse Colosseum", 5),
+"RARE - Heart Vessel": LocationData("Reverse Colosseum", 7),
+"RARE - Life Vessel": LocationData("Reverse Colosseum", 6),
+"RARE - RBO0 Life Vessel": LocationData("Reverse Colosseum", 2),
+"RARE - Zircon": LocationData("Reverse Colosseum", 1),
+"RCAT - Attack potion": LocationData("Floating Catacombs", 12),
+"RCAT - Buffalo star": LocationData("Floating Catacombs", 1),
+"RCAT - Diamond": LocationData("Floating Catacombs", 14),
+"RCAT - Elixir": LocationData("Floating Catacombs", 7),
+"RCAT - Heart Vessel": LocationData("Floating Catacombs", 10),
+"RCAT - Heart Vessel": LocationData("Floating Catacombs", 15),
+"RCAT - Karma Coin": LocationData("Floating Catacombs", 4),
+"RCAT - Karma Coin": LocationData("Floating Catacombs", 5),
+"RCAT - Library card": LocationData("Floating Catacombs", 8),
+"RCAT - Life Vessel": LocationData("Floating Catacombs", 16),
+"RCAT - Life Vessel": LocationData("Floating Catacombs", 9),
+"RCAT - Magic Missile": LocationData("Floating Catacombs", 0),
+"RCAT - Necklace of J": LocationData("Floating Catacombs", 13),
+"RCAT - RBO8 Life Vessel": LocationData("Floating Catacombs", 5),
+"RCAT - Red bean bun": LocationData("Floating Catacombs", 6),
+"RCAT - Resist fire": LocationData("Floating Catacombs", 3),
+"RCAT - Resist thunder": LocationData("Floating Catacombs", 2),
+"RCAT - Ruby circlet": LocationData("Floating Catacombs", 17),
+"RCAT - Shield potion": LocationData("Floating Catacombs", 11),
+"RCHI - Alucard sword": LocationData("Cave", 2),
+"RCHI - Green tea": LocationData("Cave", 3),
+"RCHI - Life apple": LocationData("Cave", 1),
+"RCHI - Power of Sire": LocationData("Cave", 0),
+"RCHI - Power of Sire": LocationData("Cave", 4),
+"RCHI - RBO2 Life Vessel": LocationData("Cave", 21),
+"RCHI - Shiitake": LocationData("Cave", 6),
+"RCHI - Shiitake": LocationData("Cave", 7),
+"RDAI - Boomerang": LocationData("Anti-Chapel", 8),
+"RDAI - Bwaka knife": LocationData("Anti-Chapel", 14),
+"RDAI - Diamond": LocationData("Anti-Chapel", 3),
+"RDAI - Fire boomerang": LocationData("Anti-Chapel", 2),
+"RDAI - Heart Vessel": LocationData("Anti-Chapel", 17),
+"RDAI - Heart Vessel": LocationData("Anti-Chapel", 5),
+"RDAI - Javelin": LocationData("Anti-Chapel", 9),
+"RDAI - Life Vessel": LocationData("Anti-Chapel", 12),
+"RDAI - Magic Missile": LocationData("Anti-Chapel", 15),
+"RDAI - Manna prism": LocationData("Anti-Chapel", 10),
+"RDAI - RBO3 Life Vessel": LocationData("Anti-Chapel", 17),
+"RDAI - Shuriken": LocationData("Anti-Chapel", 6),
+"RDAI - Smart potion": LocationData("Anti-Chapel", 11),
+"RDAI - TNT": LocationData("Anti-Chapel", 7),
+"RDAI - Talwar": LocationData("Anti-Chapel", 13),
+"RDAI - Twilight cloak": LocationData("Anti-Chapel", 16),
+"RDAI - Zircon": LocationData("Anti-Chapel", 4),
+"RLIB - Badelaire": LocationData("Forbidden Library", 7),
+"RLIB - Library card": LocationData("Forbidden Library", 2),
+"RLIB - Neutron bomb": LocationData("Forbidden Library", 6),
+"RLIB - Opal": LocationData("Forbidden Library", 1),
+"RLIB - Resist fire": LocationData("Forbidden Library", 3),
+"RLIB - Resist ice": LocationData("Forbidden Library", 4),
+"RLIB - Resist stone": LocationData("Forbidden Library", 5),
+"RLIB - Staurolite": LocationData("Forbidden Library", 8),
+"RLIB - Turquoise": LocationData("Forbidden Library", 0),
+"RNO0 - Antivenom": LocationData("Black Marble Gallery", 2),
+"RNO0 - Heart Refresh": LocationData("Black Marble Gallery", 11),
+"RNO0 - Heart Vessel": LocationData("Black Marble Gallery", 4),
+"RNO0 - Iron ball": LocationData("Black Marble Gallery", 10),
+"RNO0 - Library card": LocationData("Black Marble Gallery", 0),
+"RNO0 - Life Vessel": LocationData("Black Marble Gallery", 3),
+"RNO0 - Meal ticket": LocationData("Black Marble Gallery", 9),
+"RNO0 - Potion": LocationData("Black Marble Gallery", 1),
+"RNO0 - Resist dark": LocationData("Black Marble Gallery", 5),
+"RNO0 - Resist fire": LocationData("Black Marble Gallery", 8),
+"RNO0 - Resist holy": LocationData("Black Marble Gallery", 6),
+"RNO0 - Resist thunder": LocationData("Black Marble Gallery", 7),
+"RNO1 - Dim Sum set": LocationData("Reverse Outer Wall", -1),
+"RNO1 - Garnet": LocationData("Reverse Outer Wall", 7),
+"RNO1 - Hammer": LocationData("Reverse Outer Wall", 2),
+"RNO1 - Heart Vessel": LocationData("Reverse Outer Wall", 0),
+"RNO1 - High potion": LocationData("Reverse Outer Wall", 6),
+"RNO1 - Life Vessel": LocationData("Reverse Outer Wall", 3),
+"RNO1 - Luck potion": LocationData("Reverse Outer Wall", 4),
+"RNO1 - Shield potion": LocationData("Reverse Outer Wall", 5),
+"RNO1 - Shotel": LocationData("Reverse Outer Wall", 1),
+"RNO2 - Alucard mail": LocationData("Death Wing큦 Lair", 7),
+"RNO2 - Aquamarine": LocationData("Death Wing큦 Lair", 6),
+"RNO2 - Heart Refresh": LocationData("Death Wing큦 Lair", 9),
+"RNO2 - Heart Vessel": LocationData("Death Wing큦 Lair", 11),
+"RNO2 - High potion": LocationData("Death Wing큦 Lair", 2),
+"RNO2 - Life Vessel": LocationData("Death Wing큦 Lair", 8),
+"RNO2 - Luck potion": LocationData("Death Wing큦 Lair", 4),
+"RNO2 - Manna prism": LocationData("Death Wing큦 Lair", 5),
+"RNO2 - Opal": LocationData("Death Wing큦 Lair", 0),
+"RNO2 - RBO7 Life Vessel": LocationData("Death Wing큦 Lair", 19),
+"RNO2 - Shield potion": LocationData("Death Wing큦 Lair", 3),
+"RNO2 - Shuriken": LocationData("Death Wing큦 Lair", 10),
+"RNO2 - Sword of Hador": LocationData("Death Wing큦 Lair", 1),
+"RNO3 - Antivenom": LocationData("Reverse Entrance", 1),
+"RNO3 - Beryl circlet": LocationData("Reverse Entrance", 6),
+"RNO3 - Fire boomerang": LocationData("Reverse Entrance", 7),
+"RNO3 - Hammer": LocationData("Reverse Entrance", 0),
+"RNO3 - Heart Vessel": LocationData("Reverse Entrance", 3),
+"RNO3 - High potion": LocationData("Reverse Entrance", 2),
+"RNO3 - Life Vessel": LocationData("Reverse Entrance", 8),
+"RNO3 - Opal": LocationData("Reverse Entrance", 5),
+"RNO3 - Pot roast": LocationData("Reverse Entrance", -1),
+"RNO3 - Talisman": LocationData("Reverse Entrance", 9),
+"RNO3 - Zircon": LocationData("Reverse Entrance", 4),
+"RNO4 - Alucard shield": LocationData("Reverse Caverns", 0),
+"RNO4 - Bat Pentagram": LocationData("Reverse Caverns", 5),
+"RNO4 - Dark Blade": LocationData("Reverse Caverns", 23),
+"RNO4 - Diamond": LocationData("Reverse Caverns", 13),
+"RNO4 - Elixir": LocationData("Reverse Caverns", 25),
+"RNO4 - Garnet": LocationData("Reverse Caverns", 4),
+"RNO4 - Heart Vessel": LocationData("Reverse Caverns", 15),
+"RNO4 - Heart Vessel": LocationData("Reverse Caverns", 7),
+"RNO4 - Life Vessel": LocationData("Reverse Caverns", 12),
+"RNO4 - Life Vessel": LocationData("Reverse Caverns", 6),
+"RNO4 - Manna prism": LocationData("Reverse Caverns", 24),
+"RNO4 - Meal ticket": LocationData("Reverse Caverns", 16),
+"RNO4 - Meal ticket": LocationData("Reverse Caverns", 17),
+"RNO4 - Meal ticket": LocationData("Reverse Caverns", 18),
+"RNO4 - Meal ticket": LocationData("Reverse Caverns", 19),
+"RNO4 - Meal ticket": LocationData("Reverse Caverns", 20),
+"RNO4 - Opal": LocationData("Reverse Caverns", 11),
+"RNO4 - Osafune katana": LocationData("Reverse Caverns", 26),
+"RNO4 - Pot roast": LocationData("Reverse Caverns", 22),
+"RNO4 - Potion": LocationData("Reverse Caverns", 8),
+"RNO4 - RBO5 Life Vessel": LocationData("Reverse Caverns", 4),
+"RNO4 - Shiitake": LocationData("Reverse Caverns", 1),
+"RNO4 - Shiitake": LocationData("Reverse Caverns", 10),
+"RNO4 - Shiitake": LocationData("Reverse Caverns", 3),
+"RNO4 - Shiitake": LocationData("Reverse Caverns", 9),
+"RNO4 - Toadstool": LocationData("Reverse Caverns", 2),
+"RNO4 - Zircon": LocationData("Reverse Caverns", 14),
+"RNO4 - Zircon": LocationData("Reverse Caverns", 21),
+"RNZ0 - Goddess shield": LocationData("Necromancy Laboratory", 3),
+"RNZ0 - Heart Vessel": LocationData("Necromancy Laboratory", 1),
+"RNZ0 - High potion": LocationData("Necromancy Laboratory", 6),
+"RNZ0 - Katana": LocationData("Necromancy Laboratory", 5),
+"RNZ0 - Life Vessel": LocationData("Necromancy Laboratory", 2),
+"RNZ0 - Manna prism": LocationData("Necromancy Laboratory", 4),
+"RNZ0 - RBO1 Life Vessel": LocationData("Necromancy Laboratory", 5),
+"RNZ0 - Resist dark": LocationData("Necromancy Laboratory", 9),
+"RNZ0 - Ring of Arcana": LocationData("Necromancy Laboratory", 8),
+"RNZ0 - Turquoise": LocationData("Necromancy Laboratory", 7),
+"RNZ1 - Bwaka knife": LocationData("Reverse Clock Tower", -1),
+"RNZ1 - Diamond": LocationData("Reverse Clock Tower", 6),
+"RNZ1 - Dragon helm": LocationData("Reverse Clock Tower", 5),
+"RNZ1 - Heart Vessel": LocationData("Reverse Clock Tower", 10),
+"RNZ1 - Karma Coin": LocationData("Reverse Clock Tower", 1),
+"RNZ1 - Life Vessel": LocationData("Reverse Clock Tower", 9),
+"RNZ1 - Life apple": LocationData("Reverse Clock Tower", 7),
+"RNZ1 - Luminus": LocationData("Reverse Clock Tower", 3),
+"RNZ1 - Magic Missile": LocationData("Reverse Clock Tower", 0),
+"RNZ1 - Moon rod": LocationData("Reverse Clock Tower", 11),
+"RNZ1 - Pot roast": LocationData("Reverse Clock Tower", -1),
+"RNZ1 - Shuriken": LocationData("Reverse Clock Tower", -1),
+"RNZ1 - Smart potion": LocationData("Reverse Clock Tower", 4),
+"RNZ1 - Str. potion": LocationData("Reverse Clock Tower", 2),
+"RNZ1 - Sunstone": LocationData("Reverse Clock Tower", 8),
+"RNZ1 - TNT": LocationData("Reverse Clock Tower", -1),
+"RTOP - Bastard sword": LocationData("Reverse Castle Keep", 4),
+"RTOP - Garnet": LocationData("Reverse Castle Keep", 22),
+"RTOP - Heart Vessel": LocationData("Reverse Castle Keep", 10),
+"RTOP - Heart Vessel": LocationData("Reverse Castle Keep", 6),
+"RTOP - Heart Vessel": LocationData("Reverse Castle Keep", 8),
+"RTOP - High potion": LocationData("Reverse Castle Keep", 21),
+"RTOP - Iron ball": LocationData("Reverse Castle Keep", 1),
+"RTOP - Library card": LocationData("Reverse Castle Keep", 24),
+"RTOP - Life Vessel": LocationData("Reverse Castle Keep", 5),
+"RTOP - Life Vessel": LocationData("Reverse Castle Keep", 7),
+"RTOP - Life Vessel": LocationData("Reverse Castle Keep", 9),
+"RTOP - Lightning mail": LocationData("Reverse Castle Keep", 23),
+"RTOP - Resist fire": LocationData("Reverse Castle Keep", 17),
+"RTOP - Resist ice": LocationData("Reverse Castle Keep", 18),
+"RTOP - Resist stone": LocationData("Reverse Castle Keep", 20),
+"RTOP - Resist thunder": LocationData("Reverse Castle Keep", 19),
+"RTOP - Royal cloak": LocationData("Reverse Castle Keep", 11),
+"RTOP - Sword of Dawn": LocationData("Reverse Castle Keep", 0),
+"RTOP - Zircon": LocationData("Reverse Castle Keep", 2),
+"TOP - Falchion": LocationData("Castle Keep", 12),
+"TOP - Fire mail": LocationData("Castle Keep", 2),
+"TOP - Frankfurter": LocationData("Castle Keep", 7),
+"TOP - Heart Vessel": LocationData("Castle Keep", 15),
+"TOP - Heart Vessel": LocationData("Castle Keep", 16),
+"TOP - Heart Vessel": LocationData("Castle Keep", 18),
+"TOP - Life Vessel": LocationData("Castle Keep", 13),
+"TOP - Life Vessel": LocationData("Castle Keep", 14),
+"TOP - Platinum mail": LocationData("Castle Keep", 11),
+"TOP - Pot roast": LocationData("Castle Keep", 6),
+"TOP - Resist dark": LocationData("Castle Keep", 9),
+"TOP - Resist holy": LocationData("Castle Keep", 10),
+"TOP - Resist stone": LocationData("Castle Keep", 8),
+"TOP - Sirloin": LocationData("Castle Keep", 4),
+"TOP - Turkey": LocationData("Castle Keep", 1),
+"TOP - Turkey": LocationData("Castle Keep", 5),
+"TOP - Turquoise": LocationData("Castle Keep", 0),
+"TOP - Tyrfing": LocationData("Castle Keep", 3),

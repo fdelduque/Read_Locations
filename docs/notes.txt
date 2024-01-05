@@ -357,3 +357,41 @@ item 195, 217 missing?
 nop - 00000000
 addiu v0, v0, 0xffffffff - 2442ffff 001001 00010 00010 1111111111111111 v0 = 00010 v1 = 00011
 sw v0, 0x0010(sp) - 101011 11101 00010 0000000000010000
+
+
+-Hypo stuff
+0x800eea84 000100 00010 00000 0000000000011001 10400019 beq v0, r0, 0x800eeaec
+0x800eea84 000100 00000 00000 0000000000011001 10000019 beq r0, r0, 0x800eeaec
+0x800154d4 000101 00010 00000 1111111111101000 1440ffe8 bne v0, r0, 0x80015478 
+0x800154d4 000101 00000 00000 1111111111101000 1440ffe8 bne v0, r0, 0x80015478
+0x800154d4 000100 00000 00000 1111111111101000 1000ffe8 beq r0, r0, 0x80015478
+0x800eec30 000101 00111 01000 1111111111110110 14e8fff6 bne a3, t0, 0x800eec0c
+0x800eec30 000100 00111 00111 1111111111110110 10e7fff6 beq a3, a3, 0x800eec0c
+0x800eec30 000100 00000 00000 1111111111110110 10e7fff6 beq r0, r0, 0x800eec0c
+
+0x1818c4 hipo reward
+0x03be4e flag CG Maria hipo
+{
+Read generic bizhawk, emerald, ape escape
+1BEFB0 - remove death with lua?
+}
+
+Looks like some kinda of sync instruction, game runs faster and black horizontal lanes on the screen
+	0x80015490 000101 00010 00011 0000000000001100 1443000c bne v0, v1, 0x800154c4
+	0x80015490 000101 00000 00000 0000000000001100 1400000c beq r0, r0, 0x800154c4 
+
+-Richter/Shaft stuff
+Richter start dialog flag 03be81
+Richter/Maria dialog after CG 03be82
+03c0ec, 03c0f0, 03c0f4 -> Looks like positional flags 0/255 normal/inverted
+03ca60 cant enter last room, after reload shaft is dead, dialog takes place offscreen
+03ca61 same as above, those values 2bytes looks for shaft killing time
+Set 03ca60(2 bytes) and 03be82 Inverted start opened
+Killing Richter sets 03c0ec 127 and 03cb06 1
+
+-NZ0 Maria encounter bne r2, r0, 0x1b8a58 or bne v0, r0
+IMPORTANT: The immediate of a jump instruction is multiplied by 4(Word aligned). So PC = $ + 4(End of actual instruction) + imm*4 
+
+shaft/dracula hp 076ed6
+
+0x09794c Seems like status flag 2 means in-game playing

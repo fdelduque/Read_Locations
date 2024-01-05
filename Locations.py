@@ -53,7 +53,8 @@ if __name__ == '__main__':
     print("Items:")
     for i in ITEMS.ITEMS_LIST:
         if i.entities:
-            new_item = random.choice([3, 4, 5, 6, 7, 9])
+            # new_item = random.choice([3, 4, 5, 6, 7, 9])
+            new_item = 2
             for e in i.entities: #[[ZONE, INDEX, [ADDRESSES]]]
                 if ZONES.ZONES_LIST[e[0]].id == "ST0":
                     continue
